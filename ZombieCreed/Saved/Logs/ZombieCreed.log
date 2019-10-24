@@ -945,3 +945,940 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-19.41.34:850][809]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/AIC_ZombieF096763D44DF5D47C6669EB1AB98B1C1.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Ai/AIC_Zombie.uasset'
 [2019.10.24-19.41.34:864][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/BP_Spawner" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Ai/BP_Spawner.uasset" SILENT=true
 [2019.10.24-19.41.34:884][809]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_SpawnerC69B97214C4880B182D146A558923BB2.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Ai/BP_Spawner.uasset'
+[2019.10.24-19.50.43:096][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.50.43:962][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.50.59:393][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.51.01:571][851]LogBlueprintActionDatabase: Requesting refresh due to module change: NewLevelDialog (loaded)
+[2019.10.24-19.51.01:573][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.51.07:415][851]LogSlate: Window 'New Level' being destroyed
+[2019.10.24-19.51.07:423][851]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.24-19.51.07:440][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.51.07:451][851]LightingResults: New page: Lighting Build
+[2019.10.24-19.51.07:451][851]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.10.24-19.51.07:452][851]MapCheck: New page: Map Check
+[2019.10.24-19.51.07:452][851]LightingResults: New page: Lighting Build
+[2019.10.24-19.51.07:549][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.10.24-19.51.08:052][851]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.10.24-19.51.08:109][851]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-19.51.08:140][851]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.24-19.51.08:180][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.24-19.51.08:187][851]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.24-19.51.08:187][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2019.10.24-19.51.08:187][851]LogFileHelpers: Loading map 'Template_Default' took 0.767
+[2019.10.24-19.51.19:614][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.51.19:689][175]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-19.51.19:714][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.19:714][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-19.51.19:715][175]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 11:51:19 AM)
+[2019.10.24-19.51.19:715][175]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-19.51.19:717][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002433s)
+[2019.10.24-19.51.19:718][175]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-19.51.19:718][175]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2019.10.24-19.51.19:718][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003508s)
+[2019.10.24-19.51.19:798][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.10.24-19.51.19:816][175]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-19.51.19:824][175]LogInit: FAudioDevice initialized.
+[2019.10.24-19.51.19:830][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.51.19:863][175]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-19.51.19:864][175]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-15.51.19
+[2019.10.24-19.51.19:864][175]LogWorld: Bringing up level for play took: 0.000493
+[2019.10.24-19.51.19:880][175]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.563
+[2019.10.24-19.51.19:880][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.24:152][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.24:152][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.51.24:163][675]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-19.51.24:196][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-19.51.24:196][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.24:253][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.10.24-19.51.24:264][676]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.24-19.51.27:384][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.51.27:462][ 42]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-19.51.27:487][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.27:487][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-19.51.27:488][ 42]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 11:51:27 AM)
+[2019.10.24-19.51.27:488][ 42]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-19.51.27:489][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001686s)
+[2019.10.24-19.51.27:490][ 42]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-19.51.27:490][ 42]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.10.24-19.51.27:490][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002368s)
+[2019.10.24-19.51.27:530][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.24-19.51.27:547][ 42]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-19.51.27:553][ 42]LogInit: FAudioDevice initialized.
+[2019.10.24-19.51.27:558][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.51.27:589][ 42]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-19.51.27:590][ 42]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-15.51.27
+[2019.10.24-19.51.27:590][ 42]LogWorld: Bringing up level for play took: 0.000525
+[2019.10.24-19.51.27:604][ 42]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.838
+[2019.10.24-19.51.27:605][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.43:448][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.43:448][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.51.43:460][930]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-19.51.43:488][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-19.51.43:488][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.51.43:538][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.10.24-19.51.43:550][931]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.24-19.51.51:696][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.51.58:138][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-19.51.59:474][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.52.02:148][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-19.52.02:538][166]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.24-19.52.02:757][190]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.24-19.52.09:786][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.52.18:428][983]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-19.52.20:849][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.52.30:024][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-19.52.30:716][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-19.52.31:746][520]Cmd: DELETE
+[2019.10.24-19.52.31:746][520]Cmd: ACTOR DELETE
+[2019.10.24-19.52.32:152][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-19.52.32:199][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.24-19.52.32:199][520]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2019.10.24-19.52.34:568][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.52.45:921][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.52.54:311][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.54.33:857][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.54.33:907][645]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-19.54.33:939][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.54.33:939][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-19.54.33:939][645]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 11:54:33 AM)
+[2019.10.24-19.54.33:939][645]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-19.54.33:943][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003307s)
+[2019.10.24-19.54.33:943][645]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-19.54.33:943][645]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.10.24-19.54.33:943][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004006s)
+[2019.10.24-19.54.33:988][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.24-19.54.34:008][645]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-19.54.34:026][645]LogInit: FAudioDevice initialized.
+[2019.10.24-19.54.34:032][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.54.34:060][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-19.54.34:061][645]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-15.54.34
+[2019.10.24-19.54.34:062][645]LogWorld: Bringing up level for play took: 0.000458
+[2019.10.24-19.54.34:181][645]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.261
+[2019.10.24-19.54.34:181][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.54.44:705][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.54.44:706][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.54.44:717][891]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-19.54.44:747][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-19.54.44:747][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.54.44:795][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.10.24-19.54.44:807][892]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.24-19.55.20:641][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.55.26:338][766]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-19.56.01:974][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.57.15:210][343]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-19.57.15:250][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.57.24:432][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.57.24:482][388]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-19.57.24:511][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.57.24:511][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-19.57.24:511][388]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 11:57:24 AM)
+[2019.10.24-19.57.24:511][388]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-19.57.24:515][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003636s)
+[2019.10.24-19.57.24:515][388]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-19.57.24:515][388]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2019.10.24-19.57.24:516][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004312s)
+[2019.10.24-19.57.24:558][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.10.24-19.57.24:578][388]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-19.57.24:586][388]LogInit: FAudioDevice initialized.
+[2019.10.24-19.57.24:592][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.57.24:620][388]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-19.57.24:622][388]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-15.57.24
+[2019.10.24-19.57.24:622][388]LogWorld: Bringing up level for play took: 0.000840
+[2019.10.24-19.57.24:637][388]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.194
+[2019.10.24-19.57.24:637][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.57.38:451][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.57.38:451][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.57.38:464][ 31]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-19.57.38:490][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-19.57.38:490][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.57.38:539][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.24-19.57.38:563][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.24-19.57.52:801][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.57.54:159][885]LogActorFactory: Actor Factory created Cube
+[2019.10.24-19.57.55:453][ 26]LogActorFactory: Actor Factory created Cube
+[2019.10.24-19.57.56:554][152]Cmd: DELETE
+[2019.10.24-19.57.56:555][152]Cmd: ACTOR DELETE
+[2019.10.24-19.57.56:557][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-19.57.56:597][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.10.24-19.57.56:598][152]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.10.24-19.57.58:108][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.58.02:388][799]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-19.58.24:787][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.58.32:484][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.58.32:542][285]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-19.58.32:568][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.58.32:568][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-19.58.32:568][285]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 11:58:32 AM)
+[2019.10.24-19.58.32:568][285]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-19.58.32:573][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004141s)
+[2019.10.24-19.58.32:573][285]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-19.58.32:573][285]LogPlayLevel: PIE: World Init took: (0.000414s)
+[2019.10.24-19.58.32:573][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004667s)
+[2019.10.24-19.58.32:615][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.24-19.58.32:635][285]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-19.58.32:642][285]LogInit: FAudioDevice initialized.
+[2019.10.24-19.58.32:649][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.58.32:677][285]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-19.58.32:678][285]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-15.58.32
+[2019.10.24-19.58.32:679][285]LogWorld: Bringing up level for play took: 0.000653
+[2019.10.24-19.58.32:693][285]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.25
+[2019.10.24-19.58.32:693][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.58.46:836][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.58.46:836][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.58.46:848][954]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-19.58.46:877][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-19.58.46:877][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-19.58.46:927][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.24-19.58.46:938][955]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.10.24-19.59.23:980][232]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2019.10.24-19.59.23:980][232]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-19.59.24:058][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.59.24:611][294]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-19.59.24:635][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.01.05:050][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.01.06:316][419]LogActorFactory: Actor Factory created Cube
+[2019.10.24-20.01.07:906][607]LogActorFactory: Actor Factory created Cube
+[2019.10.24-20.01.08:110][626]Cmd: DELETE
+[2019.10.24-20.01.08:110][626]Cmd: ACTOR DELETE
+[2019.10.24-20.01.08:113][626]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-20.01.08:154][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.10.24-20.01.08:155][626]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.10.24-20.01.09:409][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.01.11:897][ 32]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.01.51:744][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.02.21:643][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.03.07:485][609]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2019.10.24-20.03.07:485][609]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.03.09:843][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.03.11:439][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.03.15:930][571]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.03.21:473][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.03.27:453][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.03.37:354][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.03.57:714][421]Cmd: TRANSACTION UNDO
+[2019.10.24-20.03.57:714][421]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.03.59:839][662]Cmd: TRANSACTION UNDO
+[2019.10.24-20.03.59:839][662]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.04.13:515][290]Cmd: TRANSACTION UNDO
+[2019.10.24-20.04.13:515][290]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.04.14:036][346]Cmd: TRANSACTION UNDO
+[2019.10.24-20.04.14:036][346]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.04.14:654][418]Cmd: TRANSACTION UNDO
+[2019.10.24-20.04.14:655][418]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.04.16:106][586]Cmd: TRANSACTION UNDO
+[2019.10.24-20.04.16:106][586]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.04.16:149][586]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.10.24-20.04.16:149][586]LogGeometryMode: Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2019.10.24-20.04.16:149][586]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.04.36:301][918]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2019.10.24-20.04.36:301][918]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.04.48:536][366]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.05.27:187][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.05.30:439][763]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.06.29:585][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.06.29:656][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.24-20.06.29:657][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.24-20.06.29:837][703]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto3594413E34E48A4133EB35AB4877C44B9.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2019.10.24-20.06.29:839][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.231
+[2019.10.24-20.06.29:839][703]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.231
+[2019.10.24-20.06.57:405][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.07.47:531][796]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.07.47:572][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.07.48:403][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.08.04:375][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.08.07:900][145]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.08.30:826][824]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-20.08.30:826][824]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.08.32:233][985]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2019.10.24-20.08.32:233][985]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.09.01:389][368]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2019.10.24-20.09.01:389][368]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.09.16:076][ 96]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-20.09.16:076][ 96]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.09.24:427][ 59]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2019.10.24-20.09.24:427][ 59]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.09.26:959][351]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2019.10.24-20.09.26:959][351]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.09.39:916][829]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2019.10.24-20.09.39:916][829]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.09.52:205][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.09.53:867][290]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.10.24-20.09.54:578][371]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2019.10.24-20.09.54:578][371]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.10.06:974][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.10.24:163][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.10.25:570][832]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.10.24-20.10.43:448][883]Cmd: TRANSACTION UNDO
+[2019.10.24-20.10.43:448][883]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.10.44:036][943]Cmd: TRANSACTION UNDO
+[2019.10.24-20.10.44:036][943]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.10.44:746][ 26]Cmd: TRANSACTION UNDO
+[2019.10.24-20.10.44:746][ 26]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.10.44:754][ 26]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.10.44:754][ 26]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2019.10.24-20.10.44:754][ 26]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.10.45:819][150]Cmd: TRANSACTION UNDO
+[2019.10.24-20.10.45:820][150]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.10.46:975][286]Cmd: TRANSACTION UNDO
+[2019.10.24-20.10.46:975][286]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.10.47:463][343]Cmd: TRANSACTION UNDO
+[2019.10.24-20.10.47:463][343]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.10.47:472][343]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.10.47:472][343]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2019.10.24-20.10.47:472][343]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.10.52:984][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.11.51:822][892]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-20.11.51:822][892]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.12.25:826][833]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.12.30:090][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.12.35:749][328]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.10.24-20.12.56:964][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.13.00:532][238]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.14.05:079][824]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.14.05:119][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.14.11:373][556]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.14.11:414][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.14.12:382][664]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.14.17:194][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.14.20:858][628]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.14.25:913][201]Cmd: EDCALLBACK SURFPROPS
+[2019.10.24-20.14.38:239][631]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.14.45:113][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.14.45:179][442]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-20.14.45:208][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.14.45:208][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-20.14.45:208][442]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 12:14:45 PM)
+[2019.10.24-20.14.45:208][442]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-20.14.45:214][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006434s)
+[2019.10.24-20.14.45:215][442]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-20.14.45:215][442]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.10.24-20.14.45:215][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007209s)
+[2019.10.24-20.14.45:262][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.10.24-20.14.45:282][442]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-20.14.45:290][442]LogInit: FAudioDevice initialized.
+[2019.10.24-20.14.45:296][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-20.14.45:326][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-20.14.45:327][442]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-16.14.45
+[2019.10.24-20.14.45:328][442]LogWorld: Bringing up level for play took: 0.000844
+[2019.10.24-20.14.45:343][442]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.901
+[2019.10.24-20.14.45:344][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.15.10:444][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.15.10:445][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-20.15.10:459][440]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-20.15.10:492][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-20.15.10:492][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.15.10:543][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.24-20.15.10:555][441]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.10.24-20.15.21:585][757]Cmd: DUPLICATE
+[2019.10.24-20.15.21:585][757]Cmd: ACTOR DUPLICATE
+[2019.10.24-20.15.35:545][347]Cmd: DUPLICATE
+[2019.10.24-20.15.35:545][347]Cmd: ACTOR DUPLICATE
+[2019.10.24-20.15.35:562][347]LogGeometryMode: Warning: Unable to find BoxBrush9_10 Brush(s) in new BSP
+[2019.10.24-20.15.35:562][347]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.15.49:227][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.16.27:677][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.16.27:753][471]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.17.25:025][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.17.25:077][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.10.24-20.17.25:094][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.24-20.17.25:689][272]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto4CF5A21634183EBA4BD9CBC9B0ED33C71.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2019.10.24-20.17.25:692][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.659
+[2019.10.24-20.17.25:692][272]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.659
+[2019.10.24-20.17.26:943][421]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.17.56:257][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.18.49:730][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.19.25:034][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.19.27:729][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.19.27:803][694]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.19.35:859][616]Cmd: TRANSACTION UNDO
+[2019.10.24-20.19.35:859][616]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.19.35:870][616]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.19.35:870][616]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.10.24-20.19.35:870][616]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.19.37:214][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.20.35:033][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.20.42:759][514]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.21.38:918][924]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.21.46:742][826]Cmd: SELECT NONE
+[2019.10.24-20.21.48:248][995]Cmd: EDCALLBACK SURFPROPS
+[2019.10.24-20.21.52:532][491]Cmd: EDCALLBACK SURFPROPS
+[2019.10.24-20.21.53:208][567]Cmd: EDCALLBACK SURFPROPS
+[2019.10.24-20.21.57:802][105]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.22.39:941][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.22.40:008][ 82]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.22.54:484][766]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-20.22.54:484][766]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.23.02:542][712]Cmd: SELECT NONE
+[2019.10.24-20.23.32:740][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.23.34:253][388]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-20.23.34:253][388]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.23.56:138][963]Cmd: SELECT NONE
+[2019.10.24-20.24.00:882][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.24.27:822][710]Cmd: DUPLICATE
+[2019.10.24-20.24.27:822][710]Cmd: ACTOR DUPLICATE
+[2019.10.24-20.24.31:755][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.24.39:241][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.25.31:851][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.25.52:555][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.27.10:157][720]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.10.24-20.27.10:157][720]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.28.39:639][289]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.10.24-20.28.39:639][289]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.29.02:455][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.29.04:155][139]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.29.04:288][152]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2019.10.24-20.29.06:962][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.29.07:029][468]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.29.22:495][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.29.22:570][233]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.29.26:470][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.30.38:485][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.30.38:560][929]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.30.49:806][246]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.10.24-20.30.49:806][246]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.30.50:969][381]Cmd: DELETE
+[2019.10.24-20.30.50:985][381]Cmd: ACTOR DELETE
+[2019.10.24-20.30.51:005][381]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-20.30.51:053][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.10.24-20.30.51:063][381]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.10.24-20.31.05:146][ 44]Cmd: TRANSACTION UNDO
+[2019.10.24-20.31.05:146][ 44]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.31.05:923][130]Cmd: TRANSACTION UNDO
+[2019.10.24-20.31.05:924][130]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.31.05:937][130]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.31.05:937][130]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.10.24-20.31.05:937][130]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.31.07:523][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.31.32:336][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.31.37:769][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.31.37:827][884]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-20.31.37:854][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.31.37:854][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-20.31.37:854][884]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 12:31:37 PM)
+[2019.10.24-20.31.37:854][884]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-20.31.37:862][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007906s)
+[2019.10.24-20.31.37:863][884]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-20.31.37:863][884]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.10.24-20.31.37:863][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008567s)
+[2019.10.24-20.31.37:905][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.24-20.31.37:923][884]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-20.31.37:932][884]LogInit: FAudioDevice initialized.
+[2019.10.24-20.31.37:938][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-20.31.37:966][884]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-20.31.37:967][884]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-16.31.37
+[2019.10.24-20.31.37:968][884]LogWorld: Bringing up level for play took: 0.001095
+[2019.10.24-20.31.37:983][884]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.46
+[2019.10.24-20.31.37:983][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.31.52:505][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.31.52:505][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-20.31.52:517][611]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-20.31.52:550][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-20.31.52:550][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.31.52:603][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.24-20.31.52:615][612]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.10.24-20.31.52:967][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.32.26:711][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.32.45:349][889]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.32.52:527][730]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2019.10.24-20.34.12:005][ 42]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.12:005][ 42]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.34.12:758][128]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.12:758][128]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.34.38:241][ 56]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.38:241][ 56]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.34.38:858][120]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.38:858][120]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.34.39:344][176]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.39:344][176]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.34.39:356][176]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.10.24-20.34.39:356][176]LogGeometryMode: Warning: Unable to resolve BoxBrush12_14 Brush in new BSP, see above
+[2019.10.24-20.34.39:356][176]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.34.39:822][229]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.39:822][229]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.34.40:380][294]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.40:380][294]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.34.40:969][361]Cmd: TRANSACTION UNDO
+[2019.10.24-20.34.40:969][361]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.35.21:976][261]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-20.35.21:976][261]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.35.25:274][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.35.27:178][872]LogActorFactory: Actor Factory created Cube
+[2019.10.24-20.35.28:620][ 13]LogActorFactory: Actor Factory created Cube
+[2019.10.24-20.35.31:634][365]Cmd: DELETE
+[2019.10.24-20.35.31:634][365]Cmd: ACTOR DELETE
+[2019.10.24-20.35.31:658][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-20.35.31:704][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.24-20.35.31:704][365]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2019.10.24-20.35.32:860][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.35.37:768][ 58]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.35.42:066][557]Cmd: DELETE
+[2019.10.24-20.35.42:066][557]Cmd: ACTOR DELETE
+[2019.10.24-20.35.42:087][557]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-20.35.42:133][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.24-20.35.42:145][557]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.10.24-20.35.48:825][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.35.48:866][359]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-20.35.48:891][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.35.48:891][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-20.35.48:891][359]PIE: New page: PIE session: Untitled_1 (Oct 24, 2019, 12:35:48 PM)
+[2019.10.24-20.35.48:891][359]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.24-20.35.48:900][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008754s)
+[2019.10.24-20.35.48:900][359]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.24-20.35.48:901][359]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.10.24-20.35.48:901][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009314s)
+[2019.10.24-20.35.48:942][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.24-20.35.48:960][359]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-20.35.48:969][359]LogInit: FAudioDevice initialized.
+[2019.10.24-20.35.48:974][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-20.35.49:007][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-20.35.49:008][359]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.24-16.35.49
+[2019.10.24-20.35.49:009][359]LogWorld: Bringing up level for play took: 0.001292
+[2019.10.24-20.35.49:023][359]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.581
+[2019.10.24-20.35.49:024][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.36.34:485][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.36.34:485][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-20.36.34:496][796]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-20.36.34:526][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-20.36.34:526][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.24-20.36.34:578][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.24-20.36.34:590][797]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.10.24-20.36.55:636][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.36.57:851][536]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.37.11:315][ 82]LogGeometryMode: Warning: Unable to find BoxBrush11 Brush(s) in new BSP
+[2019.10.24-20.37.11:315][ 82]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.38.08:648][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.38.08:724][806]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.38.34:280][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.38.37:944][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.38.38:027][272]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.38.46:433][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.38.46:513][249]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.39.38:498][326]Cmd: DUPLICATE
+[2019.10.24-20.39.38:498][326]Cmd: ACTOR DUPLICATE
+[2019.10.24-20.39.38:523][326]LogGeometryMode: Warning: Unable to find BoxBrush12_18 Brush(s) in new BSP
+[2019.10.24-20.39.38:523][326]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.40.25:802][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.40.42:249][555]Cmd: TRANSACTION UNDO
+[2019.10.24-20.40.42:249][555]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.40.53:637][870]Cmd: TRANSACTION UNDO
+[2019.10.24-20.40.53:637][870]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.40.54:521][972]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-20.40.54:521][972]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.41.08:781][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.41.08:865][658]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.41.17:395][640]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.17:395][640]LogEditorTransaction: Undo Modifier [Extrude]
+[2019.10.24-20.41.17:870][693]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.17:870][693]LogEditorTransaction: Undo Modifier [Extrude]
+[2019.10.24-20.41.18:378][751]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.18:378][751]LogEditorTransaction: Undo Modifier [Extrude]
+[2019.10.24-20.41.18:850][806]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.18:850][806]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.41.19:311][859]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.19:311][859]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.41.19:793][915]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.19:793][915]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.41.22:453][226]Cmd: DELETE
+[2019.10.24-20.41.22:455][226]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.41.22:455][226]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.41.22:455][226]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.41.24:068][414]Cmd: DELETE
+[2019.10.24-20.41.24:069][414]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.41.24:069][414]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.41.24:069][414]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.41.25:125][531]Cmd: DELETE
+[2019.10.24-20.41.25:126][531]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.41.25:126][531]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.41.25:126][531]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.41.28:306][906]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.28:307][906]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.41.28:696][944]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.28:696][944]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.41.29:037][977]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.29:038][977]LogEditorTransaction: Undo Modifier [Extrude]
+[2019.10.24-20.41.29:438][ 23]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.29:438][ 23]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.41.29:814][ 63]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.29:814][ 63]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.41.30:240][112]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.30:240][112]LogEditorTransaction: Undo Modifier [Extrude]
+[2019.10.24-20.41.30:633][157]Cmd: TRANSACTION UNDO
+[2019.10.24-20.41.30:633][157]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.41.41:081][379]LogGeometryMode: Warning: Unable to find BoxBrush12_17 Brush(s) in new BSP
+[2019.10.24-20.41.41:081][379]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.41.42:656][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.41.57:693][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.42.03:132][968]Cmd: TRANSACTION UNDO
+[2019.10.24-20.42.03:132][968]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.42.03:151][968]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.42.03:151][968]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.03:151][968]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.18:120][647]Cmd: DELETE
+[2019.10.24-20.42.18:120][647]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.18:120][647]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.18:120][647]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.28:711][834]Cmd: DELETE
+[2019.10.24-20.42.28:712][834]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.28:712][834]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.28:712][834]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.32:966][333]Cmd: DELETE
+[2019.10.24-20.42.32:967][333]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.32:967][333]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.32:967][333]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.34:414][496]Cmd: DELETE
+[2019.10.24-20.42.34:415][496]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.34:415][496]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.34:415][496]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.53:195][632]Cmd: DELETE
+[2019.10.24-20.42.53:196][632]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.53:196][632]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.53:196][632]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.54:848][818]Cmd: DELETE
+[2019.10.24-20.42.54:849][818]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.54:849][818]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.54:849][818]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.55:946][942]Cmd: DELETE
+[2019.10.24-20.42.55:946][942]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.55:946][942]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.55:946][942]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.42.57:284][ 95]Cmd: DELETE
+[2019.10.24-20.42.57:285][ 95]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.10.24-20.42.57:285][ 95]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.42.57:285][ 95]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.43.06:418][169]Cmd: DELETE
+[2019.10.24-20.43.06:418][169]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.43.06:418][169]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2019.10.24-20.43.06:418][169]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.43.31:508][ 99]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.31:508][ 99]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.43.31:803][128]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.31:803][128]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.32:097][157]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.32:097][157]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.32:467][200]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.32:467][200]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.43.32:880][245]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.32:880][245]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.33:272][290]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.33:273][290]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.43.33:639][329]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.33:639][329]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.33:872][355]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.33:872][355]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.43.34:107][378]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.34:107][378]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.35:444][530]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.35:444][530]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.43.35:793][567]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.35:794][567]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.36:061][594]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.36:061][594]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.36:348][627]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.36:348][627]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.43.37:141][717]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.37:141][717]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.37:451][752]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.37:451][752]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.37:739][784]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.37:739][784]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.38:096][825]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.38:096][825]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.43.38:535][873]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.38:535][873]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.38:860][910]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.38:861][910]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.43.39:092][933]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.39:092][933]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.39:309][957]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.39:309][957]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.43.39:557][982]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.39:558][982]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.39:858][ 16]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.39:858][ 16]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.43.40:106][ 41]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.40:106][ 41]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.40:339][ 67]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.40:339][ 67]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.40:621][ 99]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.40:621][ 99]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.43.40:868][124]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.40:868][124]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.41:062][145]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.41:062][145]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.41:244][165]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.41:244][165]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.41:445][187]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.41:445][187]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.41:645][209]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.41:645][209]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.41:832][229]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.41:832][229]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.42:020][249]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.42:020][249]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.42:204][269]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.42:204][269]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.42:376][288]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.42:376][288]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.42:562][308]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.42:563][308]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.43.42:743][325]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.42:743][325]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.43.43:378][399]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.43:378][399]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.43.43:714][436]Cmd: TRANSACTION UNDO
+[2019.10.24-20.43.43:714][436]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.43.48:309][962]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.43.49:221][ 64]Cmd: DELETE
+[2019.10.24-20.43.49:240][ 64]Cmd: ACTOR DELETE
+[2019.10.24-20.43.49:276][ 64]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-20.43.49:334][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.10.24-20.43.49:349][ 64]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2019.10.24-20.44.42:524][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.24-20.44.42:526][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.24-20.44.44:012][610]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto51634324141FD88FBB3483787904CA1E7.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2019.10.24-20.44.44:021][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 1.545
+[2019.10.24-20.44.44:022][610]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.545
+[2019.10.24-20.48.19:317][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.48.21:833][405]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.21:833][405]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.48.22:249][443]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.22:250][443]LogEditorTransaction: Undo Select Brush Surface
+[2019.10.24-20.48.22:800][505]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.22:800][505]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-20.48.23:235][555]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.23:236][555]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.48.23:911][633]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.23:911][633]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.48.27:838][ 80]Cmd: SELECT NONE
+[2019.10.24-20.48.28:605][172]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.48.35:054][920]Cmd: DELETE
+[2019.10.24-20.48.35:055][920]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-20.48.35:055][920]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.10.24-20.48.35:055][920]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.48.37:286][184]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.37:286][184]LogEditorTransaction: Undo Modifier [Delete]
+[2019.10.24-20.48.37:683][225]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.37:683][225]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.24-20.48.38:036][264]Cmd: TRANSACTION UNDO
+[2019.10.24-20.48.38:036][264]LogEditorTransaction: Undo Select Brush Surface
+[2019.10.24-20.49.05:732][466]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2019.10.24-20.49.05:732][466]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.49.22:143][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.49.25:474][792]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.50.16:817][659]Cmd: TRANSACTION UNDO
+[2019.10.24-20.50.16:817][659]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.50.21:248][156]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.50.25:341][607]Cmd: TRANSACTION UNDO
+[2019.10.24-20.50.25:341][607]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.51.10:107][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.51.15:354][347]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.52.42:549][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.52.45:733][853]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.53.55:525][867]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.55.09:324][515]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.55.10:896][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.55.15:403][193]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.56.41:589][235]Cmd: TRANSACTION UNDO
+[2019.10.24-20.56.41:589][235]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.56.45:535][688]Cmd: TRANSACTION UNDO
+[2019.10.24-20.56.45:535][688]LogEditorTransaction: Undo Move Actors
+[2019.10.24-20.56.45:559][688]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.10.24-20.56.45:559][688]LogGeometryMode: Warning: Unable to resolve BoxBrush17 Brush in new BSP, see above
+[2019.10.24-20.56.45:559][688]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-20.56.46:749][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.57.30:033][890]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.57.30:074][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-20.57.30:979][993]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.58.34:282][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.58.41:802][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.58.42:357][363]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-20.59.04:613][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.59.22:744][125]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-20.59.35:489][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.59.42:734][421]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-20.59.45:702][764]Cmd: TRANSACTION UNDO
+[2019.10.24-20.59.45:702][764]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-20.59.46:176][817]Cmd: TRANSACTION UNDO
+[2019.10.24-20.59.46:176][817]LogEditorTransaction: Undo Brush Add
+[2019.10.24-20.59.47:304][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-20.59.48:138][  9]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.00.07:363][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.00.09:598][472]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.00.15:508][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.00.18:344][463]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.00.21:008][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.00.23:256][992]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.00.35:216][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.00.38:504][770]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.00.42:796][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.00.46:509][678]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.00.48:046][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-21.00.51:154][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.00.55:473][680]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.01.04:453][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.01.39:756][963]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2019.10.24-21.01.39:779][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.24-21.01.41:628][963]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto67D6DF5E745EF3E30AB9C26806359D0FF.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2019.10.24-21.01.41:632][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 1.992
+[2019.10.24-21.01.41:632][963]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.992
+[2019.10.24-21.01.59:509][649]LogGeometryMode: Warning: Unable to find BoxBrush18 Brush(s) in new BSP
+[2019.10.24-21.01.59:509][649]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.02.00:784][797]Cmd: DELETE
+[2019.10.24-21.02.00:813][797]Cmd: ACTOR DELETE
+[2019.10.24-21.02.00:847][797]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-21.02.00:893][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.10.24-21.02.00:912][797]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.10.24-21.02.35:917][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.02.35:999][914]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.02.56:619][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.03.01:536][910]Cmd: TRANSACTION UNDO
+[2019.10.24-21.03.01:537][910]LogEditorTransaction: Undo Move Actors
+[2019.10.24-21.03.37:263][ 64]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-21.03.37:263][ 64]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.03.40:029][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.03.40:096][391]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.04.04:192][219]LogGeometryMode: Warning: Unable to find BoxBrush19 Brush(s) in new BSP
+[2019.10.24-21.04.04:192][219]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.04.16:614][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.04.17:716][791]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-21.04.17:716][791]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.04.45:483][ 11]Cmd: TRANSACTION UNDO
+[2019.10.24-21.04.45:483][ 11]LogEditorTransaction: Undo Move Actors
+[2019.10.24-21.04.45:510][ 11]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-21.04.45:510][ 11]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2019.10.24-21.04.45:510][ 11]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.04.57:477][402]Cmd: SELECT NONE
+[2019.10.24-21.05.03:237][ 70]Cmd: DELETE
+[2019.10.24-21.05.03:268][ 70]Cmd: ACTOR DELETE
+[2019.10.24-21.05.03:308][ 70]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-21.05.03:363][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.10.24-21.05.03:384][ 70]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2019.10.24-21.05.03:752][105]Cmd: DELETE
+[2019.10.24-21.05.03:784][105]Cmd: ACTOR DELETE
+[2019.10.24-21.05.03:819][105]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-21.05.03:864][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.10.24-21.05.03:894][105]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2019.10.24-21.05.04:255][142]Cmd: DELETE
+[2019.10.24-21.05.04:287][142]Cmd: ACTOR DELETE
+[2019.10.24-21.05.04:322][142]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-21.05.04:376][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.24-21.05.04:402][142]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2019.10.24-21.05.04:754][178]Cmd: DELETE
+[2019.10.24-21.05.04:786][178]Cmd: ACTOR DELETE
+[2019.10.24-21.05.04:822][178]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-21.05.04:878][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.10.24-21.05.04:904][178]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2019.10.24-21.05.05:164][201]Cmd: DELETE
+[2019.10.24-21.05.05:193][201]Cmd: ACTOR DELETE
+[2019.10.24-21.05.05:228][201]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-21.05.05:277][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.10.24-21.05.05:296][201]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2019.10.24-21.06.08:358][587]LogGeometryMode: Warning: Unable to find BoxBrush10 Brush(s) in new BSP
+[2019.10.24-21.06.08:358][587]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.06.15:156][373]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2019.10.24-21.06.15:156][373]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.06.28:022][822]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2019.10.24-21.06.28:022][822]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.06.48:460][202]LogGeometryMode: Warning: Unable to find BoxBrush17 Brush(s) in new BSP
+[2019.10.24-21.06.48:460][202]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.07.00:703][623]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2019.10.24-21.07.00:704][623]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.07.04:187][  9]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-21.07.04:187][  9]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.07.37:383][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.07.54:957][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.08.23:901][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.08.23:967][309]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.08.34:877][593]LogGeometryMode: Warning: Unable to find BoxBrush19 Brush(s) in new BSP
+[2019.10.24-21.08.34:877][593]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.08.40:510][239]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.08.50:483][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.08.57:413][161]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.09.24:889][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.09.40:144][196]LogGeometryMode: Warning: Unable to find BoxBrush19 Brush(s) in new BSP
+[2019.10.24-21.09.40:144][196]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.09.45:920][872]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.09.49:859][323]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.10.25:384][535]Cmd: TRANSACTION UNDO
+[2019.10.24-21.10.25:384][535]LogEditorTransaction: Undo Move Actors
+[2019.10.24-21.10.25:779][571]Cmd: TRANSACTION UNDO
+[2019.10.24-21.10.25:779][571]LogEditorTransaction: Undo Animatable Property Changed
+[2019.10.24-21.10.26:183][616]Cmd: TRANSACTION UNDO
+[2019.10.24-21.10.26:183][616]LogEditorTransaction: Undo Move Actors
+[2019.10.24-21.10.26:208][616]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.24-21.10.26:208][616]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2019.10.24-21.10.26:208][616]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.10.27:498][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.10.32:697][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.10.38:437][  5]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.10.52:024][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.11.05:554][128]LogGeometryMode: Warning: Unable to find BoxBrush18_33 Brush(s) in new BSP
+[2019.10.24-21.11.05:554][128]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.11.06:529][239]Cmd: DELETE
+[2019.10.24-21.11.06:558][239]Cmd: ACTOR DELETE
+[2019.10.24-21.11.06:605][239]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-21.11.06:672][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.10.24-21.11.06:695][239]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2019.10.24-21.11.16:369][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.11.16:419][376]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.11.20:020][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.11.37:637][823]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2019.10.24-21.11.37:637][823]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.11.45:039][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.11.45:105][680]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.12.08:817][464]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-21.12.08:817][464]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.12.16:374][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.12.36:366][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.12.36:440][645]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.12.52:419][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.13.16:221][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.13.23:825][188]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-21.13.28:030][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.13.42:438][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.13.42:504][347]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.13.53:700][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.14.15:197][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.14.15:280][177]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.14.28:798][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.15.01:141][499]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.10.24-21.15.01:141][499]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.24-21.15.03:779][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.15.03:828][812]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.10.24-21.15.09:239][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.15.18:785][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.15.43:249][ 69]LogSlate: Window 'Save Level As' being destroyed
+[2019.10.24-21.15.43:604][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.24-21.15.43:608][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.24-21.15.43:651][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.24-21.15.45:150][ 69]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1397910BD4DF040E817E59DBC46DEDB3E.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1.umap'
+[2019.10.24-21.15.45:213][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1_BuiltData" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1_BuiltData.uasset" SILENT=true
+[2019.10.24-21.15.45:226][ 69]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_BuiltData65E14960436C3F7C3D59E48B7DC29D5F.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1_BuiltData.uasset'
+[2019.10.24-21.15.45:231][ 69]LogFileHelpers: Saving map 'City1' took 1.952
+[2019.10.24-21.15.52:263][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-21.15.54:129][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-21.15.54:200][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.24-21.15.54:277][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.10.24-21.15.54:562][105]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City13589FA51496C6E5E8558F593512799CE.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1.umap'
+[2019.10.24-21.15.54:587][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1_BuiltData" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1_BuiltData.uasset" SILENT=true
+[2019.10.24-21.15.54:604][105]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_BuiltDataF323430C4B12BAC5865473BCABC33A6D.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1_BuiltData.uasset'
+[2019.10.24-21.15.59:757][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.24-21.16.00:375][712]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-21.16.00:486][712]LogSlate: Window 'BP_Zombie' being destroyed
+[2019.10.24-21.16.00:550][712]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-21.16.00:662][712]LogSlate: Window 'ZombieCreed - Unreal Editor' being destroyed
+[2019.10.24-21.16.00:662][712]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.24-21.16.00:890][713]Cmd: QUIT_EDITOR
+[2019.10.24-21.16.02:124][713]LogExit: Preparing to exit.
+[2019.10.24-21.16.03:993][713]LogExit: Editor shut down
+[2019.10.24-21.16.03:994][713]LogExit: Transaction tracking system shut down
+[2019.10.24-21.16.06:072][713]LogExit: Object subsystem successfully closed.
+[2019.10.24-21.16.06:253][713]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.24-21.16.06:279][713]LogD3D11RHI: Shutdown
+[2019.10.24-21.16.06:279][713]LogD3D11RHI: CleanupD3DDevice
+[2019.10.24-21.16.06:304][713]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-21.16.06:304][713]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-21.16.06:324][713]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-21.16.06:324][713]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-21.16.06:324][713]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-21.16.06:324][713]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
