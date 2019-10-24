@@ -1,0 +1,1628 @@
+﻿Log file open, 10/14/19 14:04:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ZombieCreed
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.155828
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Horonex -epicuserid=3660e519d424403abda47429a5beba77 -epiclocale=en-US
+LogInit: Base Directory: R:/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.10.14-18.04.12:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.14-18.04.12:634][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.14-18.04.12:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.10.14-18.04.12:635][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.10.14-18.04.12:640][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.14-18.04.12:640][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.14-18.04.12:641][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.14-18.04.12:641][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.14-18.04.12:641][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.14-18.04.12:668][  0]LogHAL: Display: Platform has ~ 16 GB [17067368448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.14-18.04.12:668][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.14-18.04.12:668][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.14-18.04.12:668][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:668][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.14-18.04.12:669][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.10.14-18.04.12:669][  0]LogInit: Computer: DESKTOP-0F3IPB8
+[2019.10.14-18.04.12:669][  0]LogInit: User: Adril
+[2019.10.14-18.04.12:669][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.14-18.04.12:669][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.14-18.04.12:669][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.14-18.04.12:669][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.14-18.04.12:669][  0]LogMemory: Process Physical Memory: 96.29 MB used, 96.30 MB peak
+[2019.10.14-18.04.12:669][  0]LogMemory: Process Virtual Memory: 83.89 MB used, 83.89 MB peak
+[2019.10.14-18.04.12:669][  0]LogMemory: Physical Memory: 6610.82 MB used,  9665.89 MB free, 16276.71 MB total
+[2019.10.14-18.04.12:669][  0]LogMemory: Virtual Memory: 4639.16 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.14-18.04.12:682][  0]LogInit: Using OS detected language (en-US).
+[2019.10.14-18.04.12:682][  0]LogInit: Using OS detected locale (en-CA).
+[2019.10.14-18.04.12:682][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.14-18.04.12:810][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.14-18.04.12:838][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.14-18.04.12:838][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.14-18.04.12:959][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.14-18.04.12:959][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.14-18.04.13:009][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.10.14-18.04.13:009][  0]LogD3D11RHI:       2988/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.14-18.04.13:017][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.10.14-18.04.13:018][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.14-18.04.13:019][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.14-18.04.13:019][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.14-18.04.13:019][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.14-18.04.13:026][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.14-18.04.13:026][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.14-18.04.13:026][  0]LogWindows: EnumDisplayDevices:
+[2019.10.14-18.04.13:026][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.10.14-18.04.13:026][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2019.10.14-18.04.13:026][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.10.14-18.04.13:026][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.10.14-18.04.13:027][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.10.14-18.04.13:027][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.10.14-18.04.13:027][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.10.14-18.04.13:027][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.14-18.04.13:027][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.10.14-18.04.13:027][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.10.14-18.04.13:027][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.10.14-18.04.13:027][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.10.14-18.04.13:062][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.14-18.04.13:068][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.14-18.04.13:068][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.14-18.04.13:069][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.14-18.04.13:076][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.14-18.04.13:368][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.14-18.04.13:378][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.14-18.04.13:388][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.14-18.04.13:398][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.14-18.04.13:408][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.14-18.04.13:418][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.14-18.04.13:428][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.14-18.04.13:438][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.14-18.04.13:442][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.14-18.04.13:502][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.14-18.04.13:503][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.14-18.04.13:544][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.14-18.04.13:544][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.14-18.04.13:562][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.14-18.04.13:562][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.14-18.04.13:571][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.14-18.04.13:581][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.14-18.04.13:590][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.14-18.04.13:599][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.14-18.04.13:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.14-18.04.13:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.14-18.04.13:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.14-18.04.13:638][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.14-18.04.13:663][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../gitProjects/ZombieCreed/ZombieCreed/Intermediate/Shaders/WorkingDirectory/11428/).
+[2019.10.14-18.04.13:663][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adril/AppData/Local/Temp/UnrealShaderWorkingDir/AF1601724DC6BFACD84338A6857A4466/'.
+[2019.10.14-18.04.13:664][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.14-18.04.13:664][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.14-18.04.13:664][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.14-18.04.14:106][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.14-18.04.14:142][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Adril/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.14-18.04.14:142][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adril/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.14-18.04.14:142][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../gitProjects/ZombieCreed/ZombieCreed/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.14-18.04.14:142][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.14-18.04.14:142][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../gitProjects/ZombieCreed/ZombieCreed/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.14-18.04.14:142][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.14-18.04.14:153][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.14-18.04.14:153][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.14-18.04.14:153][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.14-18.04.14:165][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adril/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.14-18.04.14:165][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.14-18.04.14:165][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.14-18.04.14:182][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.14-18.04.14:183][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.14-18.04.14:184][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.14-18.04.14:251][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.10.14-18.04.14:497][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.14-18.04.14:602][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.14-18.04.14:602][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.14-18.04.14:602][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.14-18.04.14:602][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.14-18.04.14:602][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.14-18.04.14:610][  0]LogNetVersion: ZombieCreed 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2797403465)
+[2019.10.14-18.04.15:095][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.123501 seconds
+[2019.10.14-18.04.15:100][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.14-18.04.15:100][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.14-18.04.15:100][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.14-18.04.15:696][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.14-18.04.15:707][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.14-18.04.15:809][  0]SourceControl: Source control is disabled
+[2019.10.14-18.04.15:809][  0]SourceControl: Source control is disabled
+[2019.10.14-18.04.15:810][  0]SourceControl: Source control is disabled
+[2019.10.14-18.04.15:810][  0]SourceControl: Source control is disabled
+[2019.10.14-18.04.15:890][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.14-18.04.15:981][  0]LogOcInput: OculusInput pre-init called
+[2019.10.14-18.04.16:500][  0]LogEngine: Initializing Engine...
+[2019.10.14-18.04.16:501][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.14-18.04.16:501][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.14-18.04.16:664][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.14-18.04.16:672][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.14-18.04.16:696][  0]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-18.04.16:711][  0]LogInit: FAudioDevice initialized.
+[2019.10.14-18.04.16:711][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.14-18.04.16:771][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Adril/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.14-18.04.16:780][  0]LogInit: Texture streaming: Enabled
+[2019.10.14-18.04.16:789][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.14-18.04.16:801][  0]LogInit: Transaction tracking system initialized
+[2019.10.14-18.04.16:812][  0]BlueprintLog: New page: Editor Load
+[2019.10.14-18.04.16:868][  0]LocalizationService: Localization service is disabled
+[2019.10.14-18.04.17:150][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Content/' took 0.04s
+[2019.10.14-18.04.17:150][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.14-18.04.17:150][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.14-18.04.17:276][  0]SourceControl: Source control is disabled
+[2019.10.14-18.04.17:276][  0]Cmd: MAP LOAD FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-18.04.17:276][  0]LightingResults: New page: Lighting Build
+[2019.10.14-18.04.17:278][  0]MapCheck: New page: Map Check
+[2019.10.14-18.04.17:278][  0]LightingResults: New page: Lighting Build
+[2019.10.14-18.04.17:298][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.14-18.04.18:905][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.14-18.04.19:156][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-18.04.19:178][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.10.14-18.04.19:178][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-18.04.19:178][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2019.10.14-18.04.19:178][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.901
+[2019.10.14-18.04.19:575][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.04.19:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.04.19:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.04.19:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.04.19:625][  0]LogCollectionManager: Loaded 0 collections in 0.013977 seconds
+[2019.10.14-18.04.19:696][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Collections/' took 0.01s
+[2019.10.14-18.04.19:696][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Content/Developers/Adril/Collections/' took 0.00s
+[2019.10.14-18.04.19:696][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Content/Collections/' took 0.00s
+[2019.10.14-18.04.19:696][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.14-18.04.19:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2732 classes and 659 folders.
+[2019.10.14-18.04.19:743][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.14-18.04.19:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:858][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.19:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-18.04.20:592][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.14-18.04.20:639][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.14-18.04.21:017][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.14-18.04.21:028][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.14-18.04.21:050][  0]LogSlate: Took 0.017394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.14-18.04.21:352][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-18.04.21:565][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.14-18.04.21:565][  0]LogLoad: (Engine Initialization) Total time: 11.29 seconds
+[2019.10.14-18.04.21:565][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.14-18.04.21:592][  0]LogAssetRegistry: Asset discovery search completed in 7.3635 seconds
+[2019.10.14-18.04.21:594][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.14-18.04.21:594][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2019.10.14-18.04.21:629][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.14-18.04.21:659][  0]LogSlate: Took 0.016728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.14-18.04.24:912][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.04.52:315][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.04.54:406][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.04.59:727][713]LogSlate: Window 'New Level' being destroyed
+[2019.10.14-18.04.59:746][713]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-18.04.59:748][713]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.14-18.04.59:750][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.04.59:756][713]LightingResults: New page: Lighting Build
+[2019.10.14-18.04.59:756][713]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.10.14-18.04.59:757][713]MapCheck: New page: Map Check
+[2019.10.14-18.04.59:757][713]LightingResults: New page: Lighting Build
+[2019.10.14-18.04.59:778][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.10.14-18.04.59:789][713]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-18.04.59:860][713]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-18.04.59:881][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.10.14-18.04.59:884][713]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-18.04.59:884][713]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2019.10.14-18.04.59:884][713]LogFileHelpers: Loading map 'Template_Default' took 0.138
+[2019.10.14-18.05.04:222][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.05.04:305][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-18.05.04:313][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.05.04:314][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-18.05.04:342][237]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 10:05:04 AM)
+[2019.10.14-18.05.04:360][237]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-18.05.04:362][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002235s)
+[2019.10.14-18.05.04:362][237]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-18.05.04:363][237]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.10.14-18.05.04:363][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002919s)
+[2019.10.14-18.05.04:382][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.14-18.05.04:452][237]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-18.05.04:460][237]LogInit: FAudioDevice initialized.
+[2019.10.14-18.05.04:522][237]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-18.05.04:531][237]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-14.05.04
+[2019.10.14-18.05.04:532][237]LogWorld: Bringing up level for play took: 0.000413
+[2019.10.14-18.05.04:611][237]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.10.14-18.05.04:657][237]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.512
+[2019.10.14-18.05.04:657][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.05.07:658][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.05.07:658][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.05.07:688][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-18.05.07:688][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.05.07:711][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.05.07:713][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.14-18.05.07:762][593]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.14-18.05.21:275][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.14-18.05.41:005][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.05.49:313][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.14-18.05.55:899][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.14-18.05.56:394][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.14-18.05.56:461][323]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.14-18.06.06:196][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.06.20:618][165]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.14-18.06.21:263][241]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.14-18.06.21:313][246]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2019.10.14-18.06.33:492][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.14-18.06.36:572][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.06.37:859][183]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.10.14-18.06.37:930][183]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.14-18.06.37:975][183]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.14-18.06.38:019][183]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.14-18.06.38:019][183]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.14-18.06.38:019][183]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.14-18.06.38:487][183]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.10.14-18.06.38:782][183]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.14-18.06.38:799][183]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.14-18.06.38:825][183]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.14-18.06.38:846][183]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.14-18.06.38:897][183]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.10.14-18.06.38:934][183]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.14-18.06.38:961][183]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.14-18.06.38:982][183]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.10.14-18.06.39:015][183]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.10.14-18.06.49:250][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.14-18.06.53:993][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.14-18.06.55:091][  7]Cmd: DELETE
+[2019.10.14-18.06.55:119][  7]Cmd: ACTOR DELETE
+[2019.10.14-18.06.55:182][  7]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.14-18.06.55:203][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.14-18.06.55:203][  7]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.10.14-18.06.56:763][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.07.00:480][595]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.14-18.07.06:255][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.07.23:150][260]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.10.14-18.07.24:113][373]Cmd: DELETE
+[2019.10.14-18.07.24:113][373]Cmd: ACTOR DELETE
+[2019.10.14-18.07.24:114][373]LogEditorActor: Deleted Actor: Brush
+[2019.10.14-18.07.24:134][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.14-18.07.24:135][373]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.14-18.07.26:637][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.07.26:713][680]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.10.14-18.07.52:268][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.08.08:979][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.08.09:115][733]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.10.14-18.08.09:118][733]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.14-18.08.16:439][733]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.14-18.08.32:363][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.08.44:314][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.08.58:297][690]Cmd: TRANSACTION UNDO
+[2019.10.14-18.08.58:297][690]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.14-18.08.58:313][690]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.10.14-18.09.02:654][199]Cmd: TRANSACTION UNDO
+[2019.10.14-18.09.02:654][199]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.14-18.10.56:789][605]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.10.14-18.10.57:124][613]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.10.14-18.10.57:670][678]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.10.14-18.10.57:999][717]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.10.14-18.10.58:287][751]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.10.14-18.10.58:667][796]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.10.14-18.11.26:148][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.11.46:938][515]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-18.11.51:172][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.11.53:329][223]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.14-18.11.58:872][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.12.08:527][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.12.14:917][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.12.14:967][753]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-18.12.14:976][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.14:976][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-18.12.14:976][753]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 10:12:14 AM)
+[2019.10.14-18.12.14:976][753]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-18.12.14:991][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015181s)
+[2019.10.14-18.12.14:992][753]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-18.12.14:992][753]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.10.14-18.12.14:992][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.015941s)
+[2019.10.14-18.12.15:013][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.10.14-18.12.15:032][753]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-18.12.15:040][753]LogInit: FAudioDevice initialized.
+[2019.10.14-18.12.15:065][753]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-18.12.15:066][753]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-14.12.15
+[2019.10.14-18.12.15:066][753]LogWorld: Bringing up level for play took: 0.000764
+[2019.10.14-18.12.15:109][753]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.14-18.12.15:110][753]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.966
+[2019.10.14-18.12.15:110][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.17:867][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.17:867][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.12.17:894][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-18.12.17:894][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.17:918][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.12.17:919][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.14-18.12.17:969][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.14-18.12.24:628][878]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.14-18.12.26:396][ 84]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.14-18.12.27:815][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.12.27:889][259]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-18.12.27:899][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.27:899][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-18.12.27:899][259]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 10:12:27 AM)
+[2019.10.14-18.12.27:899][259]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-18.12.27:915][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015441s)
+[2019.10.14-18.12.27:915][259]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-18.12.27:990][259]LogPlayLevel: PIE: World Init took: (0.075403s)
+[2019.10.14-18.12.27:990][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.091158s)
+[2019.10.14-18.12.28:010][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.14-18.12.28:027][259]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-18.12.28:033][259]LogInit: FAudioDevice initialized.
+[2019.10.14-18.12.28:057][259]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-18.12.28:058][259]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-14.12.28
+[2019.10.14-18.12.28:059][259]LogWorld: Bringing up level for play took: 0.000701
+[2019.10.14-18.12.28:072][259]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.073
+[2019.10.14-18.12.28:072][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.40:756][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.40:756][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.12.40:785][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-18.12.40:785][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.12.40:809][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.12.40:811][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.14-18.12.40:856][773]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.14-18.12.55:641][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.13.23:705][843]Cmd: DUPLICATE
+[2019.10.14-18.13.23:705][843]Cmd: ACTOR DUPLICATE
+[2019.10.14-18.13.45:613][418]Cmd: DUPLICATE
+[2019.10.14-18.13.45:613][418]Cmd: ACTOR DUPLICATE
+[2019.10.14-18.14.01:575][267]LogEditorViewport: Clicking Background
+[2019.10.14-18.14.04:758][640]LogEditorViewport: Clicking Background
+[2019.10.14-18.14.06:682][865]Cmd: DUPLICATE
+[2019.10.14-18.14.06:682][865]Cmd: ACTOR DUPLICATE
+[2019.10.14-18.14.21:691][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.14.57:118][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.15.03:881][525]LogGeometryMode: Warning: Unable to find BoxBrush_3 Brush(s) in new BSP
+[2019.10.14-18.15.03:881][525]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.14-18.15.05:419][706]Cmd: DELETE
+[2019.10.14-18.15.05:423][706]Cmd: ACTOR DELETE
+[2019.10.14-18.15.05:425][706]LogEditorActor: Deleted Actor: Brush
+[2019.10.14-18.15.05:445][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.14-18.15.05:447][706]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.14-18.15.06:695][852]Cmd: DELETE
+[2019.10.14-18.15.06:699][852]Cmd: ACTOR DELETE
+[2019.10.14-18.15.06:700][852]LogEditorActor: Deleted Actor: Brush
+[2019.10.14-18.15.06:720][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.14-18.15.06:722][852]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.14-18.15.07:566][949]Cmd: DELETE
+[2019.10.14-18.15.07:569][949]Cmd: ACTOR DELETE
+[2019.10.14-18.15.07:570][949]LogEditorActor: Deleted Actor: Brush
+[2019.10.14-18.15.07:590][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.14-18.15.07:591][949]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.14-18.15.10:474][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.16.00:742][219]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-18.16.20:168][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.16.27:803][443]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-18.16.30:083][713]Cmd: TRANSACTION UNDO
+[2019.10.14-18.16.30:083][713]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-18.16.32:958][ 55]Cmd: TRANSACTION UNDO
+[2019.10.14-18.16.32:958][ 55]LogEditorTransaction: Undo Edit Y
+[2019.10.14-18.16.42:420][180]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-18.17.09:307][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.17.23:959][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.17.32:101][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.17.36:101][116]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.10.14-18.17.45:172][185]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-18.18.04:876][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.14-18.18.17:203][924]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2019.10.14-18.18.27:598][152]Cmd: TRANSACTION UNDO
+[2019.10.14-18.18.27:598][152]LogEditorTransaction: Undo Move Actors
+[2019.10.14-18.18.27:600][152]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.14-18.18.27:600][152]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2019.10.14-18.18.27:600][152]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.14-18.18.31:922][658]Cmd: TRANSACTION UNDO
+[2019.10.14-18.18.31:922][658]LogEditorTransaction: Undo Move Actors
+[2019.10.14-18.18.31:924][658]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.14-18.18.31:924][658]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2019.10.14-18.18.31:924][658]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.14-18.18.34:266][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.14-18.18.44:911][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.19.02:276][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.19.50:932][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.19.56:806][759]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.14-18.19.59:040][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.20.42:158][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.20.50:249][ 54]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.10.14-18.20.52:309][282]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.10.14-18.20.52:928][353]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.10.14-18.20.53:910][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.21.03:194][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.21.04:834][567]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.10.14-18.21.32:191][756]Cmd: TRANSACTION UNDO
+[2019.10.14-18.21.32:191][756]LogEditorTransaction: Undo Move Actors
+[2019.10.14-18.21.32:194][756]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.10.14-18.21.32:194][756]LogGeometryMode: Warning: Unable to resolve BoxBrush_8 Brush in new BSP, see above
+[2019.10.14-18.21.32:194][756]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.14-18.21.34:666][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.22.41:564][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.23.14:901][846]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.14-18.23.17:953][206]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1745)].
+[2019.10.14-18.23.18:118][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.14-18.23.18:119][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.14-18.23.18:201][206]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.10.14-18.23.18:343][206]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto133C0A4BA44523F2B147342B7CA8F9AE3.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.10.14-18.23.18:347][206]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.249
+[2019.10.14-18.23.18:347][206]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2019.10.14-18.23.18:349][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2019.10.14-18.23.18:349][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NewBlueprint]
+[2019.10.14-18.23.18:359][206]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/NewBlueprint_Auto17953503D46AEF0DF7C8AF8AC9BD1A552.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewBlueprint_Auto1.uasset'
+[2019.10.14-18.23.18:359][206]LogFileHelpers: Auto-saving content packages took 0.010
+[2019.10.14-18.23.30:512][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.10.14-18.23.30:512][647]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Spawner.BP_Spawner:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.10.14-18.23.30:512][647]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Spawner.SKEL_BP_Spawner_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.10.14-18.23.30:512][647]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Spawner.BP_Spawner_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.10.14-18.23.30:512][647]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Spawner.BP_Spawner:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.10.14-18.23.30:512][647]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Spawner.BP_Spawner:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.10.14-18.23.30:512][647]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Spawner.BP_Spawner:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.10.14-18.23.30:538][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Spawner" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Spawner.uasset" SILENT=true
+[2019.10.14-18.23.30:546][647]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_SpawnerCA7AF50C4876763B7E81428BB9DB43C8.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Spawner.uasset'
+[2019.10.14-18.23.30:621][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.14-18.23.30:643][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.14-18.23.30:663][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2019.10.14-18.23.49:259][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_Spawner.BP_Spawner
+[2019.10.14-18.23.49:954][859]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.14-18.23.57:070][439]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:582).
+[2019.10.14-18.23.59:511][721]LogSlate: Took 0.020368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.14-18.24.54:361][194]LogSlate: Took 0.004952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.14-18.30.40:148][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.30.46:104][958]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.14-18.31.05:161][226]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_Zombie.BP_Zombie
+[2019.10.14-18.31.09:343][666]LogSlate: Took 0.005894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.14-18.31.26:003][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.32.26:973][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.33.08:214][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.33.45:434][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.14-18.33.45:434][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.14-18.33.46:226][803]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto28307A4EB452C6F62BE44BCAA58CEA6C9.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2019.10.14-18.33.46:227][803]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.829
+[2019.10.14-18.33.46:228][803]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.829
+[2019.10.14-18.33.46:229][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Spawner] ([1] browsable assets)...
+[2019.10.14-18.33.46:229][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Spawner]
+[2019.10.14-18.33.46:261][803]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Spawner_Auto293F3156D4D2315D5A9D1B2BEC1B3BEE9.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Spawner_Auto2.uasset'
+[2019.10.14-18.33.46:261][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Zombie] ([1] browsable assets)...
+[2019.10.14-18.33.46:271][803]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Zombie.BP_Zombie]
+[2019.10.14-18.33.46:271][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Zombie]
+[2019.10.14-18.33.46:317][803]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Zombie_Auto2A5D1515241A382986B88029F385DBCC5.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Zombie_Auto2.uasset'
+[2019.10.14-18.33.46:318][803]LogFileHelpers: Auto-saving content packages took 0.090
+[2019.10.14-18.39.34:155][810]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.10.14-18.40.30:683][ 51]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.14-18.40.51:971][592]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_Weapon.BP_Weapon
+[2019.10.14-18.41.23:769][ 91]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.14-18.41.36:209][573]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_Projectile.BP_Projectile
+[2019.10.14-18.45.56:023][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.14-18.45.56:023][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.035
+[2019.10.14-18.45.56:024][401]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Zombie] ([1] browsable assets)...
+[2019.10.14-18.45.56:034][401]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Zombie.BP_Zombie]
+[2019.10.14-18.45.56:034][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Zombie]
+[2019.10.14-18.45.56:055][401]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Zombie_Auto327C3BB2543144D36859B5CBF7EBE2031.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Zombie_Auto3.uasset'
+[2019.10.14-18.45.56:056][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Weapon] ([1] browsable assets)...
+[2019.10.14-18.45.56:056][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Weapon]
+[2019.10.14-18.45.56:280][401]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Weapon_Auto3C34A403D40C6DA83703E5D9E6E2C7540.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Weapon_Auto3.uasset'
+[2019.10.14-18.45.56:281][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Projectile] ([1] browsable assets)...
+[2019.10.14-18.45.56:281][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Projectile]
+[2019.10.14-18.45.56:438][401]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Projectile_Auto34B1344EA421641D42848758041FC0EDB.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Projectile_Auto3.uasset'
+[2019.10.14-18.45.56:439][401]LogFileHelpers: Auto-saving content packages took 0.415
+[2019.10.14-18.47.23:824][727]BlueprintLog: New page: Compile BP_Weapon
+[2019.10.14-18.47.23:963][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.14-18.51.21:126][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.51.56:684][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.54.02:838][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.54.38:639][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.54.55:798][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.55.03:495][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.55.03:594][961]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-18.55.03:615][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.03:615][961]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-18.55.03:615][961]LogPlayLevel: [PlayLevel] Compiling BP_Spawner before play...
+[2019.10.14-18.55.03:731][961]LogPlayLevel: [PlayLevel] Compiling BP_Zombie before play...
+[2019.10.14-18.55.03:849][961]LogPlayLevel: [PlayLevel] Compiling BP_Weapon before play...
+[2019.10.14-18.55.03:960][961]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2019.10.14-18.55.04:112][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.14-18.55.04:112][961]LogPlayLevel: PlayLevel: Blueprint regeneration took 497 ms (4 blueprints)
+[2019.10.14-18.55.04:113][961]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 10:55:04 AM)
+[2019.10.14-18.55.04:113][961]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-18.55.04:130][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016956s)
+[2019.10.14-18.55.04:130][961]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-18.55.04:130][961]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2019.10.14-18.55.04:130][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017730s)
+[2019.10.14-18.55.04:157][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.14-18.55.04:174][961]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-18.55.04:180][961]LogInit: FAudioDevice initialized.
+[2019.10.14-18.55.04:214][961]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-18.55.04:215][961]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-14.55.04
+[2019.10.14-18.55.04:215][961]LogWorld: Bringing up level for play took: 0.000854
+[2019.10.14-18.55.04:228][961]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.084
+[2019.10.14-18.55.04:228][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.06:011][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.06:012][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.55.06:038][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-18.55.06:038][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.06:075][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.55.06:078][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.14-18.55.06:112][166]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.10.14-18.55.15:743][318]LogEditorViewport: Clicking on Actor (LMB): BP_Projectile_C (BP_Projectile)
+[2019.10.14-18.55.18:002][582]Cmd: DELETE
+[2019.10.14-18.55.18:002][582]Cmd: ACTOR DELETE
+[2019.10.14-18.55.18:004][582]LogEditorActor: Deleted Actor: BP_Projectile_C
+[2019.10.14-18.55.18:036][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.14-18.55.18:036][582]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.10.14-18.55.22:785][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.55.27:393][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.55.27:502][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-18.55.27:520][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.27:520][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-18.55.27:520][649]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 10:55:27 AM)
+[2019.10.14-18.55.27:520][649]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-18.55.27:536][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016419s)
+[2019.10.14-18.55.27:537][649]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-18.55.27:537][649]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2019.10.14-18.55.27:537][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016932s)
+[2019.10.14-18.55.27:569][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.14-18.55.27:585][649]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-18.55.27:591][649]LogInit: FAudioDevice initialized.
+[2019.10.14-18.55.27:620][649]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-18.55.27:621][649]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-14.55.27
+[2019.10.14-18.55.27:622][649]LogWorld: Bringing up level for play took: 0.000767
+[2019.10.14-18.55.27:634][649]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.511
+[2019.10.14-18.55.27:634][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.37:211][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.37:212][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.55.37:243][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-18.55.37:243][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-18.55.37:280][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-18.55.37:283][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.10.14-18.55.37:315][797]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.14-18.55.39:336][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.14-18.55.39:687][ 77]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.14-18.55.40:517][175]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.14-18.55.40:857][214]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.14-18.55.44:492][642]LogEditorViewport: Clicking on Actor (LMB): BP_Projectile_C (BP_Projectile)
+[2019.10.14-18.55.45:554][765]Cmd: DELETE
+[2019.10.14-18.55.45:554][765]Cmd: ACTOR DELETE
+[2019.10.14-18.55.45:556][765]LogEditorActor: Deleted Actor: BP_Projectile_C
+[2019.10.14-18.55.45:584][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.14-18.55.45:584][765]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.10.14-18.56.13:419][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.56.13:457][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.14-18.56.13:457][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.14-18.56.13:752][ 99]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto49A781C1646D5B61073E02FA9D6D3F51E.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2019.10.14-18.56.13:753][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.325
+[2019.10.14-18.56.13:754][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.325
+[2019.10.14-18.56.13:754][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Weapon] ([1] browsable assets)...
+[2019.10.14-18.56.13:754][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Weapon]
+[2019.10.14-18.56.13:772][ 99]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Weapon_Auto43707009D4C573891BFA7E5910F76F488.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Weapon_Auto4.uasset'
+[2019.10.14-18.56.13:772][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Projectile] ([1] browsable assets)...
+[2019.10.14-18.56.13:784][ 99]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Projectile.BP_Projectile]
+[2019.10.14-18.56.13:784][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Projectile]
+[2019.10.14-18.56.13:801][ 99]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Projectile_Auto4614DCE584CF7D5E725BCF8AA0C341D64.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Projectile_Auto4.uasset'
+[2019.10.14-18.56.13:801][ 99]LogFileHelpers: Auto-saving content packages took 0.047
+[2019.10.14-18.57.08:704][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.57.11:922][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.57.18:269][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.57.41:356][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.57.55:792][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.58.03:899][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.58.07:537][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.58.17:337][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.58.55:077][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.59.05:026][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-18.59.19:359][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.59.22:268][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-18.59.58:400][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.00.35:644][882]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.14-19.02.18:816][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.03.52:205][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.05.17:331][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.05.40:313][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.05.43:651][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.05.54:067][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.06.09:638][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.06.55:793][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.06.55:849][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.10.14-19.06.55:849][279]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.038
+[2019.10.14-19.06.55:850][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.10.14-19.06.55:860][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.10.14-19.06.55:860][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.10.14-19.06.56:197][279]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacter_Auto598550F8240F1CD4AB1B851827B069D80.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2019.10.14-19.06.56:197][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Weapon] ([1] browsable assets)...
+[2019.10.14-19.06.56:206][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Weapon.BP_Weapon]
+[2019.10.14-19.06.56:206][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Weapon]
+[2019.10.14-19.06.56:262][279]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Weapon_Auto5D27407554ACCF9DF621F0785937254FE.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Weapon_Auto5.uasset'
+[2019.10.14-19.06.56:263][279]LogFileHelpers: Auto-saving content packages took 0.413
+[2019.10.14-19.06.57:201][389]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.10.14-19.06.57:356][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.14-19.07.13:808][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.07.20:831][101]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-19.07.24:780][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.07.25:408][639]Cmd: EDIT CUT
+[2019.10.14-19.07.25:436][639]LogEditorActor: Deleted Actor: Landscape
+[2019.10.14-19.07.25:475][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.14-19.07.25:475][639]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.10.14-19.07.28:210][965]Cmd: TRANSACTION UNDO
+[2019.10.14-19.07.28:210][965]LogEditorTransaction: Undo Cut
+[2019.10.14-19.07.28:670][998]Cmd: TRANSACTION UNDO
+[2019.10.14-19.07.28:670][998]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-19.07.29:237][ 52]Cmd: TRANSACTION UNDO
+[2019.10.14-19.07.29:237][ 52]LogEditorTransaction: Undo Create Actors
+[2019.10.14-19.07.34:915][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.09.04:037][831]Cmd: EDIT CUT
+[2019.10.14-19.09.04:045][831]LogEditorActor: Deleted Actor: BP_Weapon_C
+[2019.10.14-19.09.04:081][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.14-19.09.04:081][831]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.10.14-19.09.05:237][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.09.13:550][911]LogEditorViewport: Clicking on Actor (LMB): BP_Weapon_C (BP_Weapon)
+[2019.10.14-19.09.15:314][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.09.21:370][826]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.14-19.09.28:382][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.10.11:294][563]BlueprintLog: New page: Compile BP_Weapon
+[2019.10.14-19.10.11:445][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.14-19.10.12:009][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Weapon" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Weapon.uasset" SILENT=true
+[2019.10.14-19.10.12:031][624]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_WeaponB7119D1141624E337035F1933756F84D.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Weapon.uasset'
+[2019.10.14-19.10.18:812][409]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-19.10.18:832][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.10.18:832][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.10.18:832][409]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:10:18 AM)
+[2019.10.14-19.10.18:832][409]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.10.18:848][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016079s)
+[2019.10.14-19.10.18:849][409]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.10.18:849][409]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2019.10.14-19.10.18:849][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016641s)
+[2019.10.14-19.10.18:880][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.14-19.10.18:898][409]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.10.18:907][409]LogInit: FAudioDevice initialized.
+[2019.10.14-19.10.18:936][409]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.10.18:937][409]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.10.18
+[2019.10.14-19.10.18:937][409]LogWorld: Bringing up level for play took: 0.000917
+[2019.10.14-19.10.18:950][409]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.806
+[2019.10.14-19.10.18:951][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.10.34:086][218]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.10.34:086][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.10.34:117][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.10.34:117][218]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.10.34:154][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.10.34:157][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.14-19.10.34:189][220]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.14-19.10.36:993][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.11.02:579][520]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.10.14-19.11.02:643][521]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.10.14-19.11.02:682][522]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.10.14-19.11.02:723][523]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.10.14-19.11.12:739][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.11.12:739][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.11.12:739][624]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:11:12 AM)
+[2019.10.14-19.11.12:739][624]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.11.12:756][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016887s)
+[2019.10.14-19.11.12:756][624]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.11.12:757][624]LogPlayLevel: PIE: World Init took: (0.000467s)
+[2019.10.14-19.11.12:757][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017454s)
+[2019.10.14-19.11.12:789][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.14-19.11.12:806][624]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.11.12:812][624]LogInit: FAudioDevice initialized.
+[2019.10.14-19.11.12:818][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.11.12:848][624]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.11.12:848][624]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.11.12
+[2019.10.14-19.11.12:848][624]LogWorld: Bringing up level for play took: 0.000965
+[2019.10.14-19.11.12:864][624]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.719
+[2019.10.14-19.11.12:864][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.11.12:883][625]LogRenderer: Reallocating scene render targets to support 1272x900 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-19.11.33:865][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.11.33:865][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.11.33:881][ 33]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.11.33:916][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.11.33:916][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.11.33:968][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.14-19.11.33:992][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.14-19.11.40:131][760]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.11.40:148][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.11.40:149][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.11.40:149][760]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:11:40 AM)
+[2019.10.14-19.11.40:149][760]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.11.40:165][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015986s)
+[2019.10.14-19.11.40:165][760]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.11.40:165][760]LogPlayLevel: PIE: World Init took: (0.000411s)
+[2019.10.14-19.11.40:165][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016489s)
+[2019.10.14-19.11.40:198][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.14-19.11.40:213][760]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.11.40:218][760]LogInit: FAudioDevice initialized.
+[2019.10.14-19.11.40:223][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.11.40:254][760]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.11.40:256][760]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.11.40
+[2019.10.14-19.11.40:256][760]LogWorld: Bringing up level for play took: 0.001236
+[2019.10.14-19.11.40:271][760]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.127
+[2019.10.14-19.11.40:271][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.12.00:038][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.12.00:039][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.12.00:049][  4]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.12.00:080][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.12.00:080][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.12.00:117][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.14-19.12.00:140][  5]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.14-19.14.07:650][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Weapon" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Weapon.uasset" SILENT=true
+[2019.10.14-19.14.07:723][113]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Weapon0551C07B4ADB36C81F0B80AA2CC91EFA.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Weapon.uasset'
+[2019.10.14-19.14.09:370][307]BlueprintLog: New page: Compile BP_Weapon
+[2019.10.14-19.14.09:519][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.14-19.14.14:215][867]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.14.14:236][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.14.14:236][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.14.14:236][867]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:14:14 AM)
+[2019.10.14-19.14.14:236][867]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.14.14:253][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016230s)
+[2019.10.14-19.14.14:253][867]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.14.14:253][867]LogPlayLevel: PIE: World Init took: (0.000386s)
+[2019.10.14-19.14.14:253][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016708s)
+[2019.10.14-19.14.14:285][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.14-19.14.14:305][867]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.14.14:314][867]LogInit: FAudioDevice initialized.
+[2019.10.14-19.14.14:319][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.14.14:349][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.14.14:351][867]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.14.14
+[2019.10.14-19.14.14:351][867]LogWorld: Bringing up level for play took: 0.001016
+[2019.10.14-19.14.14:366][867]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.222
+[2019.10.14-19.14.14:366][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.14.23:923][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.14.23:923][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.14.23:934][  2]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.14.23:964][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.14.23:964][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.14.24:002][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.14-19.14.24:023][  3]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.14-19.15.28:577][560]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.10.14-19.15.28:732][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.14-19.15.28:853][560]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacterD7C4C93C437899465D834489117391D0.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.14-19.15.37:300][559]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.15.37:318][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.15.37:318][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.15.37:319][559]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:15:37 AM)
+[2019.10.14-19.15.37:319][559]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.15.37:335][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016193s)
+[2019.10.14-19.15.37:335][559]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.15.37:335][559]LogPlayLevel: PIE: World Init took: (0.000394s)
+[2019.10.14-19.15.37:335][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016681s)
+[2019.10.14-19.15.37:367][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.14-19.15.37:384][559]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.15.37:389][559]LogInit: FAudioDevice initialized.
+[2019.10.14-19.15.37:392][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.15.37:423][559]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.15.37:425][559]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.15.37
+[2019.10.14-19.15.37:425][559]LogWorld: Bringing up level for play took: 0.000870
+[2019.10.14-19.15.37:439][559]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.705
+[2019.10.14-19.15.37:439][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.15.39:353][784]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.40:889][968]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.41:506][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.41:741][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.41:924][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.42:125][116]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.42:299][137]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.47:486][758]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.47:903][808]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.48:087][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.48:261][851]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] L pressed
+[2019.10.14-19.15.48:795][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.15.48:796][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.15.48:806][915]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.15.48:841][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.15.48:841][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.15.48:879][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.14-19.15.48:908][917]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.14-19.17.59:001][ 55]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.10.14-19.17.59:165][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.14-19.17.59:336][ 55]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacter699DECE043D6DE8E88D865BB3A921488.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.14-19.18.11:075][441]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.14-19.18.23:454][898]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-19.18.24:563][ 27]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.14-19.18.25:129][ 91]Cmd: DELETE
+[2019.10.14-19.18.25:130][ 91]Cmd: ACTOR DELETE
+[2019.10.14-19.18.25:132][ 91]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.14-19.18.25:166][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.14-19.18.25:167][ 91]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.10.14-19.18.26:461][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.18.43:518][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.18.47:640][386]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.10.14-19.18.47:887][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.10.14-19.18.47:961][386]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacter6CFB03D84D059DE7EA542AAE9F075610.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.14-19.18.56:370][343]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-19.18.59:823][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.19.28:812][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.14-19.19.28:812][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.14-19.19.29:063][797]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Untitled_1_Auto602E6539B46C358F9A3750A9F7167A2C4.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2019.10.14-19.19.29:064][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.286
+[2019.10.14-19.19.29:064][797]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.286
+[2019.10.14-19.19.29:065][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Weapon] ([1] browsable assets)...
+[2019.10.14-19.19.29:074][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Weapon.BP_Weapon]
+[2019.10.14-19.19.29:074][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Weapon]
+[2019.10.14-19.19.29:122][797]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_Weapon_Auto6F5D9FDB24B0EC09258B1F1B106328606.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Weapon_Auto6.uasset'
+[2019.10.14-19.19.29:122][797]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.10.14-19.21.01:252][306]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.14-19.21.08:569][116]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.14-19.21.08:574][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.21.27:103][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.21.27:160][309]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.21.27:182][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.27:182][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.21.27:182][309]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:21:27 AM)
+[2019.10.14-19.21.27:183][309]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.21.27:199][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016470s)
+[2019.10.14-19.21.27:199][309]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.21.27:200][309]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.10.14-19.21.27:200][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017082s)
+[2019.10.14-19.21.27:233][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.14-19.21.27:250][309]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.21.27:256][309]LogInit: FAudioDevice initialized.
+[2019.10.14-19.21.27:262][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.21.27:292][309]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.21.27:294][309]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.21.27
+[2019.10.14-19.21.27:318][309]LogWorld: Bringing up level for play took: 0.024726
+[2019.10.14-19.21.27:333][309]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.811
+[2019.10.14-19.21.27:333][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.38:241][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.38:242][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.21.38:251][606]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.21.38:286][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.21.38:286][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.38:323][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.14-19.21.38:360][608]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.14-19.21.41:762][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.21.41:820][ 18]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.21.41:836][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.41:836][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.21.41:836][ 18]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:21:41 AM)
+[2019.10.14-19.21.41:836][ 18]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.21.41:852][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016375s)
+[2019.10.14-19.21.41:853][ 18]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.21.41:853][ 18]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2019.10.14-19.21.41:853][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016870s)
+[2019.10.14-19.21.41:883][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.14-19.21.41:900][ 18]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.21.41:905][ 18]LogInit: FAudioDevice initialized.
+[2019.10.14-19.21.41:909][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.21.41:937][ 18]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.21.41:939][ 18]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.21.41
+[2019.10.14-19.21.41:939][ 18]LogWorld: Bringing up level for play took: 0.001580
+[2019.10.14-19.21.41:954][ 18]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.191
+[2019.10.14-19.21.41:954][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.44:415][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.44:416][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.21.44:425][308]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.21.44:461][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.21.44:461][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.21.44:498][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.14-19.21.44:522][310]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.14-19.21.55:209][524]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-19.21.56:794][707]LogEditorViewport: Clicking on Actor (LMB): BP_Weapon_C (BP_Weapon)
+[2019.10.14-19.21.58:515][906]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2019.10.14-19.22.06:414][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.22.10:002][241]LogEditorViewport: Clicking on Actor (LMB): BP_Weapon_C (BP_Weapon)
+[2019.10.14-19.22.11:126][368]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-19.22.22:895][771]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2019.10.14-19.22.27:102][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.22.27:152][259]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.22.27:168][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.27:168][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.22.27:168][259]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:22:27 AM)
+[2019.10.14-19.22.27:168][259]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.22.27:186][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017299s)
+[2019.10.14-19.22.27:186][259]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.22.27:186][259]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2019.10.14-19.22.27:186][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017900s)
+[2019.10.14-19.22.27:222][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.14-19.22.27:238][259]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.22.27:244][259]LogInit: FAudioDevice initialized.
+[2019.10.14-19.22.27:248][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.22.27:274][259]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.22.27:276][259]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.22.27
+[2019.10.14-19.22.27:276][259]LogWorld: Bringing up level for play took: 0.002091
+[2019.10.14-19.22.27:290][259]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.854
+[2019.10.14-19.22.27:290][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.28:699][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.28:699][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.22.28:709][417]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.22.28:738][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.22.28:738][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.28:777][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.14-19.22.28:802][420]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.14-19.22.30:455][615]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2019.10.14-19.22.35:766][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.22.35:841][243]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.22.35:856][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.35:856][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.22.35:856][243]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:22:35 AM)
+[2019.10.14-19.22.35:857][243]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.22.35:874][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017083s)
+[2019.10.14-19.22.35:874][243]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.22.35:874][243]LogPlayLevel: PIE: World Init took: (0.000389s)
+[2019.10.14-19.22.35:874][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017563s)
+[2019.10.14-19.22.35:906][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.14-19.22.35:923][243]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.22.35:931][243]LogInit: FAudioDevice initialized.
+[2019.10.14-19.22.35:936][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.22.35:968][243]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.22.35:971][243]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.22.35
+[2019.10.14-19.22.35:971][243]LogWorld: Bringing up level for play took: 0.002344
+[2019.10.14-19.22.35:986][243]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.158
+[2019.10.14-19.22.35:986][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.38:635][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.38:635][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.22.38:644][552]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.22.38:675][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.22.38:675][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.38:716][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.14-19.22.38:741][553]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.14-19.22.40:228][729]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.22.40:243][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.40:243][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.22.40:243][729]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:22:40 AM)
+[2019.10.14-19.22.40:244][729]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.22.40:261][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016955s)
+[2019.10.14-19.22.40:261][729]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.22.40:261][729]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2019.10.14-19.22.40:261][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017509s)
+[2019.10.14-19.22.40:286][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.14-19.22.40:301][729]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.22.40:306][729]LogInit: FAudioDevice initialized.
+[2019.10.14-19.22.40:311][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.22.40:341][729]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.22.40:343][729]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.22.40
+[2019.10.14-19.22.40:343][729]LogWorld: Bringing up level for play took: 0.002028
+[2019.10.14-19.22.40:358][729]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.214
+[2019.10.14-19.22.40:358][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.45:982][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.45:982][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.22.45:993][393]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.22.46:027][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.22.46:027][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.22.46:064][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.14-19.22.46:107][395]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.14-19.22.46:683][464]Cmd: SELECT NONE
+[2019.10.14-19.22.48:448][672]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2019.10.14-19.23.07:245][856]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2019.10.14-19.23.08:218][970]Cmd: DELETE
+[2019.10.14-19.23.08:218][970]Cmd: ACTOR DELETE
+[2019.10.14-19.23.08:221][970]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2019.10.14-19.23.08:283][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.14-19.23.08:283][970]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.10.14-19.23.13:243][552]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.14-19.23.14:316][670]Cmd: DELETE
+[2019.10.14-19.23.14:316][670]Cmd: ACTOR DELETE
+[2019.10.14-19.23.14:318][670]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2019.10.14-19.23.14:374][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.10.14-19.23.14:374][670]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.10.14-19.23.36:531][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.24.43:741][178]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.14-19.27.09:096][ 96]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.10.14-19.27.09:258][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.14-19.27.09:480][ 96]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacterB03751A043F6172AE4E87B984F591AB8.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.14-19.27.10:231][179]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.27.10:248][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.27.10:248][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.27.10:249][179]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:27:10 AM)
+[2019.10.14-19.27.10:249][179]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.27.10:265][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016478s)
+[2019.10.14-19.27.10:266][179]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.27.10:266][179]LogPlayLevel: PIE: World Init took: (0.000452s)
+[2019.10.14-19.27.10:266][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017029s)
+[2019.10.14-19.27.10:298][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.14-19.27.10:315][179]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.27.10:325][179]LogInit: FAudioDevice initialized.
+[2019.10.14-19.27.10:330][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.27.10:355][179]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.27.10:357][179]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.27.10
+[2019.10.14-19.27.10:357][179]LogWorld: Bringing up level for play took: 0.001059
+[2019.10.14-19.27.10:374][179]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.229
+[2019.10.14-19.27.10:374][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.27.24:963][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.27.24:963][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.27.24:974][761]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.27.25:010][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.27.25:010][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.27.25:047][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.14-19.27.25:066][762]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.14-19.27.55:428][343]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_GetComponentToWorld' [Element not found.]
+[2019.10.14-19.28.42:582][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.28.42:635][908]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacterE04EF7A149632F37F02AA695F6464E83.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.14-19.28.46:464][359]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.28.46:482][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.28.46:482][359]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-19.28.46:483][359]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.10.14-19.28.46:650][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.14-19.28.46:650][359]LogPlayLevel: PlayLevel: Blueprint regeneration took 168 ms (1 blueprints)
+[2019.10.14-19.28.46:651][359]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:28:46 AM)
+[2019.10.14-19.28.46:651][359]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.28.46:667][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016485s)
+[2019.10.14-19.28.46:668][359]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.28.46:668][359]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2019.10.14-19.28.46:668][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017030s)
+[2019.10.14-19.28.46:699][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.14-19.28.46:716][359]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.28.46:721][359]LogInit: FAudioDevice initialized.
+[2019.10.14-19.28.46:726][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.28.46:755][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.28.46:756][359]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.28.46
+[2019.10.14-19.28.46:756][359]LogWorld: Bringing up level for play took: 0.000914
+[2019.10.14-19.28.46:771][359]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.626
+[2019.10.14-19.28.46:771][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.29.22:211][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.29.22:211][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.29.22:220][598]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.29.22:254][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.29.22:254][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.29.22:297][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.14-19.29.22:323][599]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.10.14-19.29.51:190][ 54]Cmd: SELECT NONE
+[2019.10.14-19.29.52:157][170]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.14-19.29.52:321][186]Cmd: SELECT NONE
+[2019.10.14-19.29.54:119][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.30.18:680][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.30.21:868][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.31.42:368][ 13]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.31.42:386][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.31.42:386][ 13]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-19.31.42:387][ 13]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.10.14-19.31.42:582][ 13]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacter67CD9EA54AA19ADFB7506F8AA651C76E.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.14-19.31.42:617][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.10.14-19.31.42:617][ 13]LogPlayLevel: PlayLevel: Blueprint regeneration took 231 ms (1 blueprints)
+[2019.10.14-19.31.42:617][ 13]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:31:42 AM)
+[2019.10.14-19.31.42:617][ 13]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.31.42:633][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016061s)
+[2019.10.14-19.31.42:634][ 13]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.31.42:634][ 13]LogPlayLevel: PIE: World Init took: (0.000431s)
+[2019.10.14-19.31.42:634][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016582s)
+[2019.10.14-19.31.42:665][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.14-19.31.42:681][ 13]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.31.42:690][ 13]LogInit: FAudioDevice initialized.
+[2019.10.14-19.31.42:692][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.31.42:694][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.31.42:720][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.31.42:721][ 13]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.31.42
+[2019.10.14-19.31.42:721][ 13]LogWorld: Bringing up level for play took: 0.001268
+[2019.10.14-19.31.42:736][ 13]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.591
+[2019.10.14-19.31.42:736][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.31.56:073][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.31.56:073][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.31.56:083][546]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.31.56:112][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.31.56:112][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.31.56:151][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.10.14-19.31.56:175][548]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.10.14-19.31.57:237][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.31.57:320][684]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.31.57:338][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.31.57:338][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.31.57:338][684]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:31:57 AM)
+[2019.10.14-19.31.57:338][684]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.31.57:355][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016641s)
+[2019.10.14-19.31.57:355][684]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.31.57:355][684]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.10.14-19.31.57:355][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017193s)
+[2019.10.14-19.31.57:387][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.14-19.31.57:403][684]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.31.57:408][684]LogInit: FAudioDevice initialized.
+[2019.10.14-19.31.57:413][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.31.57:442][684]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.31.57:444][684]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.31.57
+[2019.10.14-19.31.57:444][684]LogWorld: Bringing up level for play took: 0.000987
+[2019.10.14-19.31.57:459][684]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.685
+[2019.10.14-19.31.57:460][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.32.18:166][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.32.18:166][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.32.18:176][ 94]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.32.18:208][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.32.18:208][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.32.18:245][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.14-19.32.18:273][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.10.14-19.32.31:445][644]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.32.31:464][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.32.31:464][644]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-19.32.31:464][644]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.10.14-19.32.31:716][644]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/ThirdPersonCharacter1C1C262A4E12368021E277BBE86DD218.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.14-19.32.31:752][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.14-19.32.31:752][644]LogPlayLevel: PlayLevel: Blueprint regeneration took 288 ms (1 blueprints)
+[2019.10.14-19.32.31:752][644]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:32:31 AM)
+[2019.10.14-19.32.31:752][644]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.32.31:769][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016491s)
+[2019.10.14-19.32.31:769][644]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.32.31:769][644]LogPlayLevel: PIE: World Init took: (0.000387s)
+[2019.10.14-19.32.31:769][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016969s)
+[2019.10.14-19.32.31:801][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.14-19.32.31:819][644]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.32.31:824][644]LogInit: FAudioDevice initialized.
+[2019.10.14-19.32.31:825][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-19.32.31:829][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.32.31:858][644]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.32.31:859][644]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.32.31
+[2019.10.14-19.32.31:859][644]LogWorld: Bringing up level for play took: 0.000939
+[2019.10.14-19.32.31:874][644]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.27
+[2019.10.14-19.32.31:874][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.32.54:989][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.32.54:989][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.32.54:999][293]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.32.55:030][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.32.55:030][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.32.55:070][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.14-19.32.55:092][295]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.10.14-19.32.59:578][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.34.00:962][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.34.33:543][921]BlueprintLog: New page: Compile BP_Weapon
+[2019.10.14-19.34.33:697][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.14-19.34.33:733][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Weapon" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Weapon.uasset" SILENT=true
+[2019.10.14-19.34.33:802][921]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_WeaponC30D8E7E4D87ED287041F3B83780F228.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Weapon.uasset'
+[2019.10.14-19.34.34:270][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.34.34:873][ 43]BlueprintLog: New page: Compile BP_Projectile
+[2019.10.14-19.34.35:014][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.14-19.34.35:042][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Projectile" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Projectile.uasset" SILENT=true
+[2019.10.14-19.34.35:207][ 43]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/BP_ProjectileE0DB079245569F48B443DC91E4DF837E.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/ThirdPersonBP/Blueprints/BP_Projectile.uasset'
+[2019.10.14-19.34.36:250][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.34.37:911][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-19.34.37:970][367]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.14-19.34.37:990][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.34.37:990][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-19.34.37:990][367]PIE: New page: PIE session: Untitled_1 (Oct 14, 2019, 11:34:37 AM)
+[2019.10.14-19.34.37:990][367]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.14-19.34.38:007][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016575s)
+[2019.10.14-19.34.38:007][367]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.14-19.34.38:007][367]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2019.10.14-19.34.38:007][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.017235s)
+[2019.10.14-19.34.38:039][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.14-19.34.38:056][367]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.14-19.34.38:064][367]LogInit: FAudioDevice initialized.
+[2019.10.14-19.34.38:069][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.34.38:096][367]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.14-19.34.38:097][367]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.14-15.34.38
+[2019.10.14-19.34.38:098][367]LogWorld: Bringing up level for play took: 0.001015
+[2019.10.14-19.34.38:112][367]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.032
+[2019.10.14-19.34.38:112][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.34.49:831][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.34.49:831][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-19.34.49:842][763]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.14-19.34.49:875][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-19.34.49:875][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.14-19.34.49:915][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.14-19.34.49:941][764]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.10.14-19.35.12:959][266]LogEditorTransaction: Undo Set Scale
+[2019.10.14-19.35.12:961][266]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_2.CollisionCylinder) Component already registered.
+[2019.10.14-19.35.12:962][266]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0) Component already registered.
+[2019.10.14-19.35.12:980][266]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.14-19.35.13:225][266]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.245 s
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: 
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: 
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: Stack: 
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb8431258 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb795b350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb7914b5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffb9921efff UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffb9921fbd5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffb991d6ec1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd6b0149b UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd6ad75d9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd6bbcc60 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd69c5efe UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd6976444 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc6a41e34 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc67fd84d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc67d8389 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc6b147a3 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc6afcdf8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc6abbe94 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc6b02aea UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc67baa78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc67e7756 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc680356d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb7914fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb7936366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb7922f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb797ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb79bae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb795929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbc67d9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd69771ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd69a743e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb80f769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbb80e6e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd6941e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd69a8dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd699f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd76cb55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd76bef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd76cd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd76bc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffc1488ca66 USER32.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffc1488c582 USER32.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffbd76ce946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ff756d55d3e UE4Editor.exe!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ff756d6554c UE4Editor.exe!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ff756d655ca UE4Editor.exe!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ff756d7316c UE4Editor.exe!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ff756d75b8e UE4Editor.exe!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffc15817974 KERNEL32.DLL!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: [Callstack] 0x00007ffc15ffa271 ntdll.dll!UnknownFunction []
+[2019.10.14-19.35.13:226][266]LogOutputDevice: Error: 
+[2019.10.14-19.35.13:228][266]LogStats:                SubmitErrorReport -  0.000 s
