@@ -19779,3 +19779,272 @@ Make sure 'Mannequin_AnimBP' has been compiled for  Get AimingDownSights?
 [2019.10.25-05.09.57:655][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2019.10.25-05.09.57:695][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2019.10.25-05.09.57:950][336]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.10.25-05.13.26:426][603]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Blueprints/GameManager_BP.GameManager_BP
+[2019.10.25-05.13.51:386][493]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/GameManager_BPE661754F4781CA5F1C5E35948205E425.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Blueprints/GameManager_BP.uasset'
+[2019.10.25-05.13.53:794][764]BlueprintLog: New page: Compile GameManager_BP
+[2019.10.25-05.13.53:999][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.10.25-05.13.59:405][381]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/GameManager_BPCF8C05DC405CCB9179A8E0895D8C1385.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Blueprints/GameManager_BP.uasset'
+[2019.10.25-05.14.16:454][363]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/GameManager_BP1B9BF3E842A2AFEE6FC9A588612E873F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Blueprints/GameManager_BP.uasset'
+[2019.10.25-05.14.23:389][178]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/GameManager_BP5C8B2215441EB216B5FD5B85E03EF938.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Blueprints/GameManager_BP.uasset'
+[2019.10.25-05.14.26:851][587]BlueprintLog: New page: Compile GameManager_BP
+[2019.10.25-05.14.27:006][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.10.25-05.14.37:339][809]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner
+[2019.10.25-05.14.41:630][279]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner661463FE40D97385B065DEA455989257.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.14.56:097][980]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_SpawnerFF91CB474BFBFC080BB17590B2E93F27.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.15.09:182][514]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner8C56A49849ACE25AAE8EF7B5B35D46BB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.15.56:165][228]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner01700B7C4947A1A17884AFA719193B03.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.16.10:088][807]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner780FA1CA4C3DE8FD9C81F59B552E5B3D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.16.27:689][ 39]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner1EE46AAC4A6A9928905ED18A41DD9C3E.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.16.32:717][626]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_SpawnerCDEC39F142C77DF15157EAA3F3915DC4.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.16.43:154][821]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner4B3CCC1648798A6721326DA6134F42C1.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.17.31:279][347]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner718FF05C4F7FAF5D99200D93C1FAC7DB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.17.52:588][760]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner264A95BC4FCE3932C6E120B603FABC2D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.17.59:335][544]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner2C2BA21C4A91AA0197E76BA049C09C45.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.18.28:985][947]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner436BF95D4F70DF75B527359FBB7603E9.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.18.38:256][ 17]BlueprintLog: New page: Compile Zombie_Spawner
+[2019.10.25-05.18.38:414][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.10.25-05.18.42:840][471]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.25-05.18.42:871][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.18.42:871][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.18.42:871][471]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2019, 9:18:42 PM)
+[2019.10.25-05.18.42:871][471]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.25-05.18.42:881][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009853s)
+[2019.10.25-05.18.42:882][471]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.25-05.18.42:882][471]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2019.10.25-05.18.42:882][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010966s)
+[2019.10.25-05.18.42:921][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.25-05.18.42:930][471]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.18.42:937][471]LogInit: FAudioDevice initialized.
+[2019.10.25-05.18.42:943][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.18.42:972][471]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.25-05.18.42:973][471]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.25-01.18.42
+[2019.10.25-05.18.42:973][471]LogWorld: Bringing up level for play took: 0.000944
+[2019.10.25-05.18.42:993][471]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.604
+[2019.10.25-05.18.42:994][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.18.45:838][806]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.45:839][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.46:839][926]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.46:839][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.47:833][ 42]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner3
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.47:833][ 42]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.48:833][162]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner4_7
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.48:833][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.48:842][163]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.48:842][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.50:841][402]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.50:841][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.51:842][522]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.51:842][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.52:839][641]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner3
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.52:839][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.54:836][877]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner4_7
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.54:836][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.54:845][878]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.54:845][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.54:845][878]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.54:845][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.57:845][237]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner3
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.57:845][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.57:853][238]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.57:853][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.18.58:845][357]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.18.58:845][357]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.00:837][596]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner4_7
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.00:838][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.00:854][598]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.00:854][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.02:846][837]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.02:846][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.02:846][837]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner3
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.02:846][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.03:859][958]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.03:859][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.06:842][315]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner4_7
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.06:842][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.06:850][316]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.06:850][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.06:867][318]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.06:867][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.07:849][436]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner3
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.07:849][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.09:872][676]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.09:873][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.10:856][794]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.10:856][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.12:849][ 33]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner4_7
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.12:849][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.12:857][ 34]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner3
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.12:857][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.12:874][ 36]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.12:874][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.14:859][271]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.14:859][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.15:874][392]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.15:874][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.17:857][628]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner3
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.17:857][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.18:849][747]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner4_7
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.18:849][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.18:865][749]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.18:866][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.18:882][751]LogScript: Warning: Accessed None trying to read property GM_REF
+	Zombie_Spawner_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Zombie_Spawner_2
+	Function /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.Zombie_Spawner_C:ExecuteUbergraph_Zombie_Spawner:002E
+[2019.10.25-05.19.18:882][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GM_REF". Blueprint:  Zombie_Spawner Function:  Execute Ubergraph Zombie Spawner Graph:  EventGraph Node:  Branch
+[2019.10.25-05.19.20:976][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.19.20:976][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.19.20:989][  2]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.25-05.19.21:026][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.19.21:026][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.19.21:067][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.25-05.19.21:115][  3]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.10.25-05.19.32:313][330]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-05.19.32:317][330]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-05.20.43:704][751]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner5B598B814A9D0C2E182CF2873CB809C0.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.20.45:855][983]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_SpawnerCC688A9744137B01E3C5F7955101E49B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.20.46:633][ 62]BlueprintLog: New page: Compile Zombie_Spawner
+[2019.10.25-05.20.46:792][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.25-05.20.48:529][254]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.25-05.20.48:557][254]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.20.48:557][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.20.48:557][254]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2019, 9:20:48 PM)
+[2019.10.25-05.20.48:557][254]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.25-05.20.48:565][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007261s)
+[2019.10.25-05.20.48:565][254]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.25-05.20.48:565][254]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2019.10.25-05.20.48:566][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008348s)
+[2019.10.25-05.20.48:602][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.25-05.20.48:609][254]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.20.48:616][254]LogInit: FAudioDevice initialized.
+[2019.10.25-05.20.48:621][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.20.48:649][254]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.25-05.20.48:650][254]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.25-01.20.48
+[2019.10.25-05.20.48:651][254]LogWorld: Bringing up level for play took: 0.001096
+[2019.10.25-05.20.48:668][254]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.278
+[2019.10.25-05.20.48:668][254]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.21.19:058][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.21.19:059][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.21.19:071][857]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.25-05.21.19:108][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.21.19:108][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.21.19:153][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.25-05.21.19:169][858]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.10.25-05.22.45:177][436]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner62289AC049DD43303D9578AB725627D9.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.23.04:389][499]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner17C187F24B8C7BFD303F00AF6EA44F7A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.23.13:200][446]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner764B0EE64BEF8E1C7AB2788B36F2C91A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.23.18:697][ 72]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Spawner562181E64A7C27B29AF036841F0DC471.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Spawner.uasset'
+[2019.10.25-05.23.19:962][197]BlueprintLog: New page: Compile Zombie_Spawner
+[2019.10.25-05.23.20:119][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.25-05.23.31:938][531]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/GameManager_BPE8BA1A914B8E4C0C806126B16A1A3400.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Blueprints/GameManager_BP.uasset'
+[2019.10.25-05.23.32:816][621]BlueprintLog: New page: Compile GameManager_BP
+[2019.10.25-05.23.33:017][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.10.25-05.23.35:143][863]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.25-05.23.35:169][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.23.35:169][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.23.35:169][863]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2019, 9:23:35 PM)
+[2019.10.25-05.23.35:169][863]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.25-05.23.35:178][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008852s)
+[2019.10.25-05.23.35:179][863]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.25-05.23.35:179][863]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2019.10.25-05.23.35:179][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009848s)
+[2019.10.25-05.23.35:218][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.25-05.23.35:225][863]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.23.35:232][863]LogInit: FAudioDevice initialized.
+[2019.10.25-05.23.35:237][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.23.35:269][863]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.25-05.23.35:271][863]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.25-01.23.35
+[2019.10.25-05.23.35:271][863]LogWorld: Bringing up level for play took: 0.000904
+[2019.10.25-05.23.35:288][863]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.898
+[2019.10.25-05.23.35:288][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.24.31:508][596]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.10.25-05.24.31:508][596]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.10.25-05.24.31:543][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.25-05.24.31:543][596]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.25-05.24.31:552][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008674s)
+[2019.10.25-05.24.31:552][596]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.25-05.24.31:553][596]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2019.10.25-05.24.31:553][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009540s)
+[2019.10.25-05.24.31:553][596]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.25-05.24.31:562][596]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.25-01.24.31
+[2019.10.25-05.24.31:562][596]LogWorld: Bringing up level for play took: 0.009135
+[2019.10.25-05.24.31:565][596]LogLoad: Took 0.057358 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2019.10.25-05.24.33:955][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.24.33:955][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.24.33:968][878]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.25-05.24.34:002][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.24.34:003][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.25-05.24.34:039][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.25-05.24.34:068][880]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.10.25-05.24.37:566][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.25-05.24.37:723][295]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMap97F297A642C5968E715ABAADE099A57E.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.25-05.24.37:834][295]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMap_BuiltData351494AB41FE1CDBF31A17BC00D51FC3.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.25-05.24.50:429][695]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/GameManager_BP2DFC4EE448C2260A8EDF56B7D6A512B7.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Blueprints/GameManager_BP.uasset'
+[2019.10.25-05.24.54:854][208]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/GameManager_BPA9C01AA8467D658CD4C8E9A56847CBFB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Blueprints/GameManager_BP.uasset'
+[2019.10.25-05.24.57:180][470]BlueprintLog: New page: Compile GameManager_BP
+[2019.10.25-05.24.57:341][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
