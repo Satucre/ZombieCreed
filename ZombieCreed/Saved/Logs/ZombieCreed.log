@@ -894,3 +894,487 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.25-00.08.03:046][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2019.10.25-00.08.03:083][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2019.10.25-00.08.03:332][671]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.25-00.08.57:388][917]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPB1E0F0024791E231447F9683A940679E.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.10.25-00.09.01:932][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.27:520][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.27:929][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.25-00.15.28:073][206]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMapCD51ABA1441CBF184ED9EA9B8DD47F56.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.25-00.15.28:220][206]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMap_BuiltData603219C44E297DC3999C7589302863FE.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.25-00.15.29:034][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.48:413][  2]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\parasite_l_starkie.fbx)
+[2019.10.25-00.15.48:469][  2]LogFbx: Loading FBX Scene from C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\parasite_l_starkie.fbx
+[2019.10.25-00.15.48:550][  2]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.25-00.15.52:439][  2]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.25-00.15.52:507][  2]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\Running.fbx)
+[2019.10.25-00.15.52:510][  2]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\Idle.fbx)
+[2019.10.25-00.16.20:799][615]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.10.25-00.16.45:119][691]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\parasite_l_starkie.fbx)
+[2019.10.25-00.16.45:154][691]LogFbx: Loading FBX Scene from C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\parasite_l_starkie.fbx
+[2019.10.25-00.16.45:233][691]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.25-00.17.21:401][691]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.25-00.17.21:427][691]LogFbx: =================================================
+[2019.10.25-00.17.21:427][691]LogFbx: Dumping Node START [parasiteZombie] 
+[2019.10.25-00.17.21:427][691]LogFbx: 	Total Deformer Count -2145983440.
+[2019.10.25-00.17.21:427][691]LogFbx: 		[Node 1] Skin parasiteZombie (Type Skin).
+[2019.10.25-00.17.21:427][691]LogFbx: =================================================
+[2019.10.25-00.17.21:427][691]LogFbx: 	Attribute (parasiteZombie) Type (4).
+[2019.10.25-00.17.21:427][691]LogFbx: 		[Node Attribute Child 1] parasiteZombie (Type Mesh).
+[2019.10.25-00.17.21:427][691]LogFbx: Dumping Node END [parasiteZombie]
+[2019.10.25-00.17.21:428][691]LogFbx: =================================================
+[2019.10.25-00.17.21:428][691]LogFbx: Dumping Node START [parasiteZombie] 
+[2019.10.25-00.17.21:428][691]LogFbx: 	Total Deformer Count -2145983440.
+[2019.10.25-00.17.21:428][691]LogFbx: 		[Node 1] Skin parasiteZombie (Type Skin).
+[2019.10.25-00.17.21:428][691]LogFbx: =================================================
+[2019.10.25-00.17.21:428][691]LogFbx: 	Attribute (parasiteZombie) Type (4).
+[2019.10.25-00.17.21:428][691]LogFbx: 		[Node Attribute Child 1] parasiteZombie (Type Mesh).
+[2019.10.25-00.17.21:428][691]LogFbx: Dumping Node END [parasiteZombie]
+[2019.10.25-00.17.21:429][691]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node parasiteZombie : The relative matrices do not match
+[2019.10.25-00.17.21:429][691]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.10.25-00.17.21:430][691]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - parasiteZombie
+[2019.10.25-00.17.21:430][691]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.10.25-00.17.21:531][691]LogMaterial: Warning: Material /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasitezombie_Material.parasitezombie_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2019.10.25-00.17.21:533][691]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.17.21:565][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasiteZombie_diffuse'
+[2019.10.25-00.17.21:565][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasiteZombie_diffuse'
+[2019.10.25-00.17.21:701][691]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.25-00.17.21:701][691]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.25-00.17.21:701][691]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.25-00.17.21:701][691]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.25-00.17.21:701][691]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.25-00.17.21:702][691]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.25-00.17.21:707][691]LogTexture: Display: Building textures: parasiteZombie_diffuse (AutoDXT, 2048X2048)
+[2019.10.25-00.17.22:465][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasiteZombie_specular'
+[2019.10.25-00.17.22:465][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasiteZombie_specular'
+[2019.10.25-00.17.22:605][691]LogTexture: Display: Building textures: parasiteZombie_specular (AutoDXT, 2048X2048)
+[2019.10.25-00.17.23:257][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasiteZombie_normal'
+[2019.10.25-00.17.23:258][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasiteZombie_normal'
+[2019.10.25-00.17.23:415][691]LogTexture: Display: Building textures: parasiteZombie_normal (BC5, 2048X2048)
+[2019.10.25-00.17.23:762][691]LogTexture: Display: Building textures: parasiteZombie_diffuse (AutoDXT, 2048X2048)
+[2019.10.25-00.17.24:515][691]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.17.24:607][691]LogFbx: Triangulating skeletal mesh parasiteZombie
+[2019.10.25-00.17.25:096][691]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2019.10.25-00.17.25:348][691]LogSkeletalMesh: Section 0: 6736 vertices, 52 active bones
+[2019.10.25-00.17.25:349][691]LogSkeletalMesh: Section 0: Material=0, 10856 triangles
+[2019.10.25-00.17.25:383][691]LogSkeletalMesh: Building Skeletal Mesh parasite_l_starkie...
+[2019.10.25-00.17.25:404][691]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie.parasite_l_starkie
+[2019.10.25-00.17.25:413][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie_Skeleton'
+[2019.10.25-00.17.25:413][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie_Skeleton'
+[2019.10.25-00.17.25:419][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie_PhysicsAsset'
+[2019.10.25-00.17.25:419][691]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie_PhysicsAsset'
+[2019.10.25-00.17.25:445][691]LogSkeletalMesh: Building Skeletal Mesh parasite_l_starkie...
+[2019.10.25-00.17.25:464][691]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie.parasite_l_starkie
+[2019.10.25-00.17.25:479][691]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.25-00.17.25:503][691]LogSkeletalMesh: Building Skeletal Mesh parasite_l_starkie...
+[2019.10.25-00.17.25:537][691]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie.parasite_l_starkie
+[2019.10.25-00.17.34:479][559]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-00.17.34:483][559]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-00.17.44:103][316]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\Idle.fbx)
+[2019.10.25-00.17.44:112][316]LogFbx: Loading FBX Scene from C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\Idle.fbx
+[2019.10.25-00.17.44:131][316]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.25-00.17.48:837][316]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(0) Hips
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(1) Spine
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(2) Spine1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(3) Spine2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(4) RightShoulder
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(5) RightArm
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(6) RightForeArm
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(7) RightHand
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(8) RightHandThumb1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(9) RightHandThumb2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(10) RightHandThumb3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(11) RightHandThumb4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(12) RightHandIndex1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(13) RightHandIndex2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(14) RightHandIndex3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(15) RightHandIndex4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(16) RightHandMiddle1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(17) RightHandMiddle2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(18) RightHandMiddle3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(19) RightHandMiddle4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(20) RightHandRing1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(21) RightHandRing2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(22) RightHandRing3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(23) RightHandRing4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(24) RightHandPinky1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(25) RightHandPinky2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(26) RightHandPinky3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(27) RightHandPinky4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(28) Neck
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(29) Head
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(30) HeadTop_End
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(31) LeftShoulder
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(32) LeftArm
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(33) LeftForeArm
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(34) LeftHand
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(35) LeftHandThumb1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(36) LeftHandThumb2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(37) LeftHandThumb3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(38) LeftHandThumb4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(39) LeftHandIndex1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(40) LeftHandIndex2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(41) LeftHandIndex3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(42) LeftHandIndex4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(43) LeftHandMiddle1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(44) LeftHandMiddle2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(45) LeftHandMiddle3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(46) LeftHandMiddle4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(47) LeftHandRing1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(48) LeftHandRing2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(49) LeftHandRing3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(50) LeftHandRing4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(51) LeftHandPinky1
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(52) LeftHandPinky2
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(53) LeftHandPinky3
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(54) LeftHandPinky4
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(56) LeftLeg
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(57) LeftFoot
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(61) RightLeg
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(62) RightFoot
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(63) RightToeBase
+[2019.10.25-00.17.48:884][316]LogFbx: SortedLinks :(64) RightToe_End
+[2019.10.25-00.17.48:885][316]LogFbx: Parsing AnimStack mixamo.com
+[2019.10.25-00.17.48:886][316]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/Idle'
+[2019.10.25-00.17.48:887][316]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/Idle'
+[2019.10.25-00.17.49:146][316]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Idle.Idle
+[2019.10.25-00.17.49:147][316]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.25-00.17.49:159][316]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\Running.fbx)
+[2019.10.25-00.17.49:167][316]LogFbx: Loading FBX Scene from C:\Users\Samuel Paquette\Desktop\Projet zombie unreal\ZombieCreed\Content\Art\Zombies\Running.fbx
+[2019.10.25-00.17.49:191][316]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(0) Hips
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(1) Spine
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(2) Spine1
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(3) Spine2
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(4) RightShoulder
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(5) RightArm
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(6) RightForeArm
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(7) RightHand
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(8) RightHandThumb1
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(9) RightHandThumb2
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(10) RightHandThumb3
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(11) RightHandThumb4
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(12) RightHandIndex1
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(13) RightHandIndex2
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(14) RightHandIndex3
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(15) RightHandIndex4
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(16) RightHandMiddle1
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(17) RightHandMiddle2
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(18) RightHandMiddle3
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(19) RightHandMiddle4
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(20) RightHandRing1
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(21) RightHandRing2
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(22) RightHandRing3
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(23) RightHandRing4
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(24) RightHandPinky1
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(25) RightHandPinky2
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(26) RightHandPinky3
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(27) RightHandPinky4
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(28) Neck
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(29) Head
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(30) HeadTop_End
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(31) LeftShoulder
+[2019.10.25-00.17.49:198][316]LogFbx: SortedLinks :(32) LeftArm
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(33) LeftForeArm
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(34) LeftHand
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(35) LeftHandThumb1
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(36) LeftHandThumb2
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(37) LeftHandThumb3
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(38) LeftHandThumb4
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(39) LeftHandIndex1
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(40) LeftHandIndex2
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(41) LeftHandIndex3
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(42) LeftHandIndex4
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(43) LeftHandMiddle1
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(44) LeftHandMiddle2
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(45) LeftHandMiddle3
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(46) LeftHandMiddle4
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(47) LeftHandRing1
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(48) LeftHandRing2
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(49) LeftHandRing3
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(50) LeftHandRing4
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(51) LeftHandPinky1
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(52) LeftHandPinky2
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(53) LeftHandPinky3
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(54) LeftHandPinky4
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(56) LeftLeg
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(57) LeftFoot
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(61) RightLeg
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(62) RightFoot
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(63) RightToeBase
+[2019.10.25-00.17.49:199][316]LogFbx: SortedLinks :(64) RightToe_End
+[2019.10.25-00.17.49:199][316]LogFbx: Parsing AnimStack mixamo.com
+[2019.10.25-00.17.49:199][316]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/Running'
+[2019.10.25-00.17.49:199][316]LogLinker: Can't find file '/Game/ZombieCreed_Game/Characters/Zombie_Enemy/Running'
+[2019.10.25-00.17.49:400][316]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Running.Running
+[2019.10.25-00.17.49:401][316]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Running) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.25-00.17.53:281][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.25-00.17.53:423][758]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMapDD1B953F4359121ACF202F8EDFF5B9E6.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.25-00.17.53:542][758]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMap_BuiltData5D76377E495F74BCEB8A048BF37939E9.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.25-00.17.54:895][912]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie_Skeleton.parasite_l_starkie_Skeleton
+[2019.10.25-00.17.54:907][912]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.10.25-00.17.54:907][912]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.25-00.17.55:076][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.25-00.17.55:084][912]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.10.25-00.17.55:084][912]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.10.25-00.17.55:123][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.25-00.17.55:605][913]LogRenderer: Reallocating scene render targets to support 1272x884 Format 10 NumSamples 1 (Frame:1).
+[2019.10.25-00.18.11:184][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.18.11:247][572]LogSlate: Window 'parasite_l_starkie_Skeleton' being destroyed
+[2019.10.25-00.18.11:251][572]LogSlate: Window 'parasite_l_starkie_Skeleton' being destroyed
+[2019.10.25-00.18.15:271][ 23]LogAssetEditorManager: Opening Asset editor for Material /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasitezombie_Material.parasitezombie_Material
+[2019.10.25-00.18.15:276][ 23]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.15:371][ 23]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.15:426][ 23]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.25-00.18.15:440][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.25-00.18.15:446][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.25-00.18.15:451][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.25-00.18.15:456][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.25-00.18.16:097][ 52]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.25-00.18.16:763][ 84]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.25-00.18.17:475][121]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.25-00.18.17:965][149]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.25-00.18.18:767][193]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.25-00.18.19:273][222]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.25-00.18.19:935][263]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.25-00.18.20:607][304]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.25-00.18.21:390][346]MaterialEditorStats: Base pass shader: 72 instructions
+[2019.10.25-00.18.21:391][346]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2019.10.25-00.18.21:391][346]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.10.25-00.18.21:391][346]MaterialEditorStats: Base pass vertex shader: 180 instructions
+[2019.10.25-00.18.21:391][346]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.25-00.18.21:391][346]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.10.25-00.18.21:391][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.25-00.18.39:314][ 64]LogMaterialEditor: Saving and Compiling material parasitezombie_Material
+[2019.10.25-00.18.39:623][ 64]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.39:709][ 64]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.25-00.18.39:720][ 64]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.39:769][ 64]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.39:931][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2019.10.25-00.18.39:941][ 64]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-00.18.43:968][ 64]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.10.25-00.18.43:968][ 64]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.10.25-00.18.43:969][ 64]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.10.25-00.18.43:969][ 64]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.10.25-00.18.43:969][ 64]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.10.25-00.18.43:969][ 64]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.25-00.18.43:969][ 64]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.25-00.18.43:969][ 64]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.25-00.18.43:972][ 64]TextureStreamingBuild: Display: Compiling optional shaders took 4.040 seconds.
+[2019.10.25-00.18.44:041][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.10.25-00.18.48:571][ 64]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/parasitezombie_Material088D224C40AF642BF64E6DBE9E920C5D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/parasitezombie_Material.uasset'
+[2019.10.25-00.18.54:060][316]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.54:116][317]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.25-00.18.54:659][349]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.25-00.18.55:385][391]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.25-00.18.55:720][409]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.55:774][409]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.55:812][409]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.18.56:150][426]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.25-00.18.56:696][456]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.25-00.18.57:051][477]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.25-00.18.57:535][506]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.25-00.18.57:915][530]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.25-00.18.58:731][581]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.10.25-00.18.58:731][581]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.10.25-00.18.58:731][581]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.25-00.18.58:731][581]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.10.25-00.18.58:731][581]MaterialEditorStats: Texture samplers: 6/16
+[2019.10.25-00.18.58:731][581]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.10.25-00.18.58:731][581]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.25-00.19.02:407][959]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.19.02:678][976]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.25-00.19.03:117][  3]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.19.03:155][  3]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.19.03:193][  3]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.19.03:566][ 22]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.25-00.19.04:094][ 53]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.25-00.19.04:407][ 71]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.25-00.19.04:896][ 98]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.25-00.19.05:287][120]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.25-00.19.06:076][170]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.10.25-00.19.06:076][170]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.10.25-00.19.06:076][170]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.25-00.19.06:076][170]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.10.25-00.19.06:076][170]MaterialEditorStats: Texture samplers: 6/16
+[2019.10.25-00.19.06:076][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.10.25-00.19.06:076][170]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.25-00.19.06:333][196]LogMaterialEditor: Saving and Compiling material parasitezombie_Material
+[2019.10.25-00.19.06:676][196]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.19.06:745][196]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.19.06:775][196]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2019.10.25-00.19.06:836][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.25-00.19.06:846][196]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.25-00.19.08:916][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.25-00.19.08:919][196]TextureStreamingBuild: Display: Compiling optional shaders took 2.082 seconds.
+[2019.10.25-00.19.08:951][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.25-00.19.11:480][196]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/parasitezombie_MaterialF36190F24577A1B3D7CE559565135C95.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/parasitezombie_Material.uasset'
+[2019.10.25-00.19.17:065][746]LogSlate: Window 'parasitezombie_Material' being destroyed
+[2019.10.25-00.19.17:069][746]LogSlate: Window 'parasitezombie_Material' being destroyed
+[2019.10.25-00.19.20:415][131]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie_Skeleton.parasite_l_starkie_Skeleton
+[2019.10.25-00.19.20:422][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.25-00.19.20:435][131]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.25-00.19.40:322][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.19.40:365][374]LogSlate: Window 'parasite_l_starkie_Skeleton' being destroyed
+[2019.10.25-00.19.40:367][374]LogSlate: Window 'parasite_l_starkie_Skeleton' being destroyed
+[2019.10.25-00.20.00:849][579]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.25-00.20.16:136][ 19]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.Zombie_BP
+[2019.10.25-00.20.16:494][ 19]LogRenderer: Reallocating scene render targets to support 1272x900 Format 10 NumSamples 1 (Frame:1).
+[2019.10.25-00.20.35:240][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-00.20.35:272][ 72]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BP997D8F96408F0E4C78361391D769CD87.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.20.36:089][153]BlueprintLog: New page: Compile Zombie_BP
+[2019.10.25-00.20.36:245][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.10.25-00.20.41:740][664]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BPCE16BC504BFC92201EBF139599AC5A7B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.20.50:010][494]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BP12F3E79544E1C40AF4DF39888425CEF5.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.20.54:388][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.21.04:149][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.21.10:332][689]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BP28B13BE34E8E55290BA6658D11726CFD.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.21.32:899][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-00.21.32:921][812]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BP6CC921C045447E451D00BBBD8592A001.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.21.45:645][241]AssetReimport: New page: Outstanding source content changes 4:21:45 PM
+[2019.10.25-00.21.45:674][241]LogEditorFactories: Performing atomic reimport of [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbx]
+[2019.10.25-00.21.45:708][241]LogFbx: Loading FBX Scene from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbx
+[2019.10.25-00.21.45:783][241]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.25-00.21.45:791][241]LogFbx: =================================================
+[2019.10.25-00.21.45:791][241]LogFbx: Dumping Node START [parasiteZombie] 
+[2019.10.25-00.21.45:791][241]LogFbx: 	Total Deformer Count -2127222880.
+[2019.10.25-00.21.45:791][241]LogFbx: 		[Node 1] Skin parasiteZombie (Type Skin).
+[2019.10.25-00.21.45:791][241]LogFbx: =================================================
+[2019.10.25-00.21.45:791][241]LogFbx: 	Attribute (parasiteZombie) Type (4).
+[2019.10.25-00.21.45:791][241]LogFbx: 		[Node Attribute Child 1] parasiteZombie (Type Mesh).
+[2019.10.25-00.21.45:791][241]LogFbx: Dumping Node END [parasiteZombie]
+[2019.10.25-00.21.45:792][241]LogFbx: =================================================
+[2019.10.25-00.21.45:792][241]LogFbx: Dumping Node START [parasiteZombie] 
+[2019.10.25-00.21.45:792][241]LogFbx: 	Total Deformer Count -2127222880.
+[2019.10.25-00.21.45:792][241]LogFbx: 		[Node 1] Skin parasiteZombie (Type Skin).
+[2019.10.25-00.21.45:792][241]LogFbx: =================================================
+[2019.10.25-00.21.45:792][241]LogFbx: 	Attribute (parasiteZombie) Type (4).
+[2019.10.25-00.21.45:792][241]LogFbx: 		[Node Attribute Child 1] parasiteZombie (Type Mesh).
+[2019.10.25-00.21.45:792][241]LogFbx: Dumping Node END [parasiteZombie]
+[2019.10.25-00.21.45:794][241]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - parasiteZombie
+[2019.10.25-00.21.45:795][241]LogFbx: Triangulating skeletal mesh parasiteZombie
+[2019.10.25-00.21.46:323][241]LogSkeletalMesh: Section 0: 6736 vertices, 52 active bones
+[2019.10.25-00.21.46:324][241]LogSkeletalMesh: Section 0: Material=0, 10856 triangles
+[2019.10.25-00.21.46:351][241]LogSkeletalMesh: Building Skeletal Mesh parasite_l_starkie...
+[2019.10.25-00.21.46:360][241]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie.parasite_l_starkie
+[2019.10.25-00.21.46:368][241]LogEditorFactories: -- imported successfully
+[2019.10.25-00.21.46:376][241]LogSkeletalMesh: Building Skeletal Mesh parasite_l_starkie...
+[2019.10.25-00.21.46:383][241]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ZombieCreed_Game/Characters/Zombie_Enemy/parasite_l_starkie.parasite_l_starkie
+[2019.10.25-00.21.46:407][242]LogEditorFactories: Performing atomic reimport of [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/Idle.fbx]
+[2019.10.25-00.21.46:414][242]LogFbx: Loading FBX Scene from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/Idle.fbx
+[2019.10.25-00.21.46:431][242]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.25-00.21.46:435][242]LogFbx: Parsing AnimStack mixamo.com
+[2019.10.25-00.21.46:616][242]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Idle.Idle
+[2019.10.25-00.21.46:616][242]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.25-00.21.46:622][242]LogEditorFactories: -- imported successfully
+[2019.10.25-00.21.46:640][243]LogEditorFactories: Performing atomic reimport of [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/Running.fbx]
+[2019.10.25-00.21.46:647][243]LogFbx: Loading FBX Scene from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/Running.fbx
+[2019.10.25-00.21.46:664][243]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.25-00.21.46:668][243]LogFbx: Parsing AnimStack mixamo.com
+[2019.10.25-00.21.46:821][243]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Running.Running
+[2019.10.25-00.21.46:822][243]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Running) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.25-00.21.46:828][243]LogEditorFactories: -- imported successfully
+[2019.10.25-00.21.46:853][244]LogEditorFactories: Performing atomic reimport of [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_diffuse.png]
+[2019.10.25-00.21.46:862][244]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_diffuse.png)
+[2019.10.25-00.21.47:606][244]LogEditorFactories: -- imported successfully
+[2019.10.25-00.21.47:630][245]LogEditorFactories: Performing atomic reimport of [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_normal.png]
+[2019.10.25-00.21.47:637][245]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_normal.png)
+[2019.10.25-00.21.47:882][245]LogEditorFactories: -- imported successfully
+[2019.10.25-00.21.47:943][246]LogEditorFactories: Performing atomic reimport of [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_specular.png]
+[2019.10.25-00.21.47:949][246]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_specular.png)
+[2019.10.25-00.21.48:528][246]LogEditorFactories: -- imported successfully
+[2019.10.25-00.21.51:548][596]AssetReimport: Reimported asset parasite_l_starkie from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbx.
+[2019.10.25-00.21.51:548][596]AssetReimport: Reimported asset Idle from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/Idle.fbx.
+[2019.10.25-00.21.51:548][596]AssetReimport: Reimported asset Running from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/Running.fbx.
+[2019.10.25-00.21.51:548][596]AssetReimport: Reimported asset parasiteZombie_diffuse from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_diffuse.png.
+[2019.10.25-00.21.51:548][596]AssetReimport: Reimported asset parasiteZombie_normal from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_normal.png.
+[2019.10.25-00.21.51:548][596]AssetReimport: Reimported asset parasiteZombie_specular from C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Art/Zombies/parasite_l_starkie.fbm/parasiteZombie_specular.png.
+[2019.10.25-00.21.54:329][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-00.21.54:348][897]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BP5EE661704B4F0395C928B79962140AFF.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.22.05:773][911]BlueprintLog: New page: Compile Zombie_BP
+[2019.10.25-00.22.05:923][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.25-00.22.13:618][827]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.22.13:622][827]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.22.18:438][381]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.10.25-00.22.24:087][381]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.10.25-00.22.41:706][461]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.Zombie_Animation_BP
+[2019.10.25-00.22.41:716][461]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.25-00.22.41:910][461]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.25-00.22.42:146][461]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.25-00.22.49:010][235]LogSlate: Window 'Zombie_Animation_BP' being destroyed
+[2019.10.25-00.22.49:014][235]LogSlate: Window 'Zombie_Animation_BP' being destroyed
+[2019.10.25-00.22.50:570][281]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.Zombie_BP
+[2019.10.25-00.22.52:455][460]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.22.52:459][460]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.22.53:544][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.Zombie_BP
+[2019.10.25-00.23.02:272][534]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BPD88139EA4091661D92EFF089DB2F893D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.23.06:334][  1]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.23.06:338][  1]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.23.09:114][325]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.Zombie_BP
+[2019.10.25-00.23.13:847][829]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.23.13:917][829]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.Zombie_BP
+[2019.10.25-00.23.17:557][219]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BP5227BFE145D6AB1B4D82188BF9A0D848.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.23.20:095][509]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.23.20:098][509]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.23.21:181][631]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.Zombie_BP
+[2019.10.25-00.23.29:914][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.23.34:290][681]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.25-00.24.00:963][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-00.24.01:005][329]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_BPDFC72BE34C97539A4E30EF883D4F37D8.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_BP.uasset'
+[2019.10.25-00.24.01:439][366]BlueprintLog: New page: Compile Zombie_BP
+[2019.10.25-00.24.01:610][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.25-00.24.03:255][557]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.24.03:259][557]LogSlate: Window 'Zombie_BP' being destroyed
+[2019.10.25-00.24.04:349][678]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.Zombie_Animation_BP
+[2019.10.25-00.24.04:358][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.25-00.24.04:555][678]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.25-00.24.04:785][678]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.25-00.24.12:981][654]LogSlate: Window 'Zombie_Animation_BP' being destroyed
+[2019.10.25-00.24.12:985][654]LogSlate: Window 'Zombie_Animation_BP' being destroyed
+[2019.10.25-00.24.30:255][ 69]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.10.25-00.24.41:841][456]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Blendspaces/Idle_Run_Enemy.Idle_Run_Enemy
+[2019.10.25-00.24.41:849][456]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.10.25-00.24.41:855][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.25-00.24.41:878][456]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.25-00.24.42:311][456]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.25-00.24.56:821][125]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Idle_Run_EnemyD2237F054E78C4D35273E98F2541D314.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Blendspaces/Idle_Run_Enemy.uasset'
+[2019.10.25-00.25.09:663][583]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Idle_Run_EnemyD6F2F4B345C4487A4957A7A709EA1BBD.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Blendspaces/Idle_Run_Enemy.uasset'
+[2019.10.25-00.25.10:775][702]LogSlate: Window 'Idle_Run_Enemy' being destroyed
+[2019.10.25-00.25.10:782][702]LogSlate: Window 'Idle_Run_Enemy' being destroyed
+[2019.10.25-00.25.16:516][367]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.Zombie_Animation_BP
+[2019.10.25-00.25.16:525][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.25-00.25.16:789][367]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.25-00.25.17:040][367]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.25-00.25.22:791][ 35]LogSlate: Took 0.003941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.25-00.25.56:003][638]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Animation_BPDADB6C84420B634261CC8E9D51CCF993.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.uasset'
+[2019.10.25-00.26.35:346][144]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Animation_BP1849757F4C7E4C9146A036BD35A0FC17.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.uasset'
+[2019.10.25-00.26.55:234][380]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Animation_BPCF2D2FFC4D888491A6B5CC8AB70B4CDA.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.uasset'
+[2019.10.25-00.26.57:914][661]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Animation_BP4133D78D46B1CA696A8F289C379BC273.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.uasset'
+[2019.10.25-00.26.59:351][812]BlueprintLog: New page: Compile Zombie_Animation_BP
+[2019.10.25-00.26.59:583][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.10.25-00.27.06:871][659]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Animation_BP14B5E33A46979C8C25BA5D8FA3EFD749.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.uasset'
+[2019.10.25-00.27.20:052][100]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Zombie_Animation_BP4089294F4B9ABE2D126328B806CE469C.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Zombie_Enemy/Blueprints/Zombie_Animation_BP.uasset'
+[2019.10.25-00.27.21:309][227]BlueprintLog: New page: Compile Zombie_Animation_BP
+[2019.10.25-00.27.21:487][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.25-00.28.08:077][286]LogSlate: Window 'Zombie_Animation_BP' being destroyed
+[2019.10.25-00.28.08:081][286]LogSlate: Window 'Zombie_Animation_BP' being destroyed
+[2019.10.25-00.28.08:932][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.25-00.28.09:100][342]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMap1BEFBE614A043B976A78A1BE15F0C8B4.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.25-00.28.09:223][342]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/ThirdPersonExampleMap_BuiltDataF11404494BAA296A18F4BB90FE21D895.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
