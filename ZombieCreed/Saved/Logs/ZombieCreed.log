@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 11/12/19 23:02:19
+=======
+﻿Log file open, 11/09/19 15:58:38
+>>>>>>> master
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,8 +13,13 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: ZombieCreed
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.383998
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.528121
+>>>>>>> master
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -120,13 +129,22 @@ LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 980
+=======
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+>>>>>>> master
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
+<<<<<<< HEAD
 LogInit: Command Line:  -EpicPortal -epicusername=Satucree -epicuserid=3495916a293f4f9b9e0823dd2d0f4bb3 -epiclocale=en-US
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+=======
+LogInit: Command Line: 
+LogInit: Base Directory: R:/Unreal/UE_4.22/Engine/Binaries/Win64/
+>>>>>>> master
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -156,6 +174,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2019.11.13-04.02.20:161][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.11.13-04.02.20:161][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.11.13-04.02.20:161][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
@@ -3743,3 +3762,1237 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-08.24.43:900][546]LogPlayLevel: Display: Destroying online subsystem :Context_156
 [2019.11.13-08.25.06:288][972]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP09A844094FB67C5811F4E080F9A98A8F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
 [2019.11.13-08.25.07:139][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+=======
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.09-20.58.43:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.09-20.58.43:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.09-20.58.43:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.09-20.58.43:139][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.09-20.58.43:190][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.09-20.58.43:190][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:190][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.09-20.58.43:191][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.09-20.58.43:198][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.09-20.58.43:198][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.09-20.58.43:427][  0]LogHAL: Display: Platform has ~ 16 GB [17067368448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.09-20.58.43:433][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.09-20.58.43:433][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.09-20.58.43:435][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.09-20.58.43:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.09-20.58.43:436][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.09-20.58.43:526][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.09-20.58.43:526][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.09-20.58.43:526][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.09-20.58.43:565][  0]LogInit: Computer: DESKTOP-0F3IPB8
+[2019.11.09-20.58.43:565][  0]LogInit: User: Adril
+[2019.11.09-20.58.43:565][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.09-20.58.43:565][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.09-20.58.43:621][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.09-20.58.43:621][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.09-20.58.43:621][  0]LogMemory: Process Physical Memory: 97.43 MB used, 97.43 MB peak
+[2019.11.09-20.58.43:621][  0]LogMemory: Process Virtual Memory: 91.89 MB used, 91.89 MB peak
+[2019.11.09-20.58.43:621][  0]LogMemory: Physical Memory: 10099.14 MB used,  6177.57 MB free, 16276.71 MB total
+[2019.11.09-20.58.43:621][  0]LogMemory: Virtual Memory: 4647.16 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.11.09-20.58.45:008][  0]LogInit: Using OS detected language (en-US).
+[2019.11.09-20.58.45:008][  0]LogInit: Using OS detected locale (en-CA).
+[2019.11.09-20.58.45:275][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.09-20.58.46:037][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.09-20.58.46:771][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.09-20.58.46:771][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.09-20.58.50:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.09-20.58.50:762][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.09-20.58.50:975][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.11.09-20.58.50:976][  0]LogD3D11RHI:       2988/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.09-20.58.51:000][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.09-20.58.51:000][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.09-20.58.51:001][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.09-20.58.51:001][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.09-20.58.51:001][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.09-20.58.51:011][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.09-20.58.51:011][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.09-20.58.51:011][  0]LogWindows: EnumDisplayDevices:
+[2019.11.09-20.58.51:011][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.11.09-20.58.51:011][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2019.11.09-20.58.51:011][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.11.09-20.58.51:012][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.11.09-20.58.51:012][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.11.09-20.58.51:012][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.09-20.58.51:012][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.09-20.58.51:012][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.09-20.58.51:012][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.11.09-20.58.51:012][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2019.11.09-20.58.51:012][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2019.11.09-20.58.51:012][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.11.09-20.58.51:050][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.09-20.58.51:488][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.09-20.58.51:498][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.09-20.58.51:498][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.09-20.58.51:538][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.09-20.58.52:495][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.09-20.58.52:543][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.09-20.58.52:586][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.09-20.58.52:628][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.09-20.58.52:738][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.09-20.58.52:784][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.09-20.58.52:818][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.09-20.58.52:856][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.09-20.58.52:882][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.09-20.58.53:029][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.09-20.58.53:058][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.09-20.58.53:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.09-20.58.53:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.09-20.58.53:300][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.09-20.58.53:300][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.09-20.58.53:342][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.09-20.58.53:364][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.09-20.58.53:399][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.09-20.58.53:441][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.09-20.58.53:551][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.09-20.58.53:551][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.09-20.58.53:551][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.09-20.58.53:877][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.09-20.58.55:031][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../gitProjects/ZombieCreed/ZombieCreed/Intermediate/Shaders/WorkingDirectory/15700/).
+[2019.11.09-20.58.55:031][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adril/AppData/Local/Temp/UnrealShaderWorkingDir/20169CBA46BAC42F7285E7923640F808/'.
+[2019.11.09-20.58.55:172][  0]LogXGEController: Cleaning working directory: C:/Users/Adril/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.09-20.58.55:172][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.09-20.58.55:173][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.09-20.58.55:173][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.09-20.58.59:022][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.09-20.58.59:207][  0]LogDerivedDataCache: Loaded boot cache 0.18s 71MB C:/Users/Adril/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.09-20.58.59:207][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adril/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.09-20.58.59:207][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../gitProjects/ZombieCreed/ZombieCreed/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.09-20.58.59:207][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.09-20.58.59:207][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../gitProjects/ZombieCreed/ZombieCreed/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.09-20.58.59:207][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.09-20.58.59:327][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.09-20.58.59:327][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.09-20.58.59:327][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.09-20.58.59:340][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adril/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.09-20.58.59:340][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.09-20.58.59:340][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.09-20.58.59:388][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.09-20.58.59:486][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.09-20.58.59:637][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.09-20.59.00:679][  0]LogAssetRegistry: FAssetRegistry took 0.0425 seconds to start up
+[2019.11.09-20.59.04:328][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.09-20.59.07:033][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.09-20.59.07:033][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.09-20.59.07:033][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.09-20.59.07:033][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.09-20.59.07:033][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.09-20.59.08:055][  0]LogNetVersion: ZombieCreed 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2797403465)
+[2019.11.09-20.59.15:261][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.160753 seconds
+[2019.11.09-20.59.15:290][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.09-20.59.15:290][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.09-20.59.15:290][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.09-20.59.39:556][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.09-20.59.39:649][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.09-20.59.40:606][  0]SourceControl: Source control is disabled
+[2019.11.09-20.59.40:629][  0]SourceControl: Source control is disabled
+[2019.11.09-20.59.40:769][  0]SourceControl: Source control is disabled
+[2019.11.09-20.59.40:813][  0]SourceControl: Source control is disabled
+[2019.11.09-20.59.42:422][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.09-20.59.43:450][  0]LogOcInput: OculusInput pre-init called
+[2019.11.09-20.59.45:684][  0]LogEngine: Initializing Engine...
+[2019.11.09-20.59.45:739][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.09-20.59.45:808][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.060 s
+[2019.11.09-20.59.46:745][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.09-20.59.47:568][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.09-20.59.47:862][  0]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.11.09-20.59.47:885][  0]LogInit: FAudioDevice initialized.
+[2019.11.09-20.59.47:886][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.09-20.59.47:952][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Adril/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.09-20.59.47:957][  0]LogInit: Texture streaming: Enabled
+[2019.11.09-20.59.48:588][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.09-20.59.48:588][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={BC96BF88-4D2D-300B-F74D-24B8793FB011}
+[2019.11.09-20.59.48:980][  0]LogInit: Transaction tracking system initialized
+[2019.11.09-20.59.49:707][  0]BlueprintLog: New page: Editor Load
+[2019.11.09-20.59.51:539][  0]LocalizationService: Localization service is disabled
+[2019.11.09-20.59.55:178][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Content/' took 0.08s
+[2019.11.09-20.59.55:178][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.09-20.59.55:179][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.09-21.00.02:217][  0]SourceControl: Source control is disabled
+[2019.11.09-21.00.02:292][  0]Cmd: MAP LOAD FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.09-21.00.02:391][  0]LightingResults: New page: Lighting Build
+[2019.11.09-21.00.02:634][  0]MapCheck: New page: Map Check
+[2019.11.09-21.00.02:634][  0]LightingResults: New page: Lighting Build
+[2019.11.09-21.00.03:215][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.09-21.00.12:662][  0]LogAIModule: Creating AISystem for world City1
+[2019.11.09-21.00.13:600][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.09-21.00.13:960][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.11.09-21.00.13:982][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.09-21.00.13:984][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.24ms to complete.
+[2019.11.09-21.00.13:985][  0]LogFileHelpers: Loading map 'City1' took 11.735
+[2019.11.09-21.00.16:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-21.00.16:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-21.00.16:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-21.00.16:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-21.00.16:943][  0]LogCollectionManager: Loaded 0 collections in 0.011214 seconds
+[2019.11.09-21.00.17:354][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Saved/Collections/' took 0.01s
+[2019.11.09-21.00.17:354][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Content/Developers/Adril/Collections/' took 0.01s
+[2019.11.09-21.00.17:354][  0]LogFileCache: Scanning file cache for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Content/Collections/' took 0.00s
+[2019.11.09-21.00.17:354][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.09-21.00.17:368][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2732 classes and 659 folders.
+[2019.11.09-21.00.17:565][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.09-21.00.17:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.17:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:084][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.09-21.00.18:865][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.09-21.00.18:904][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.09-21.00.19:766][  0]LogSlate: Took 0.028048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.09-21.00.19:813][  0]LogSlate: Took 0.021881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.09-21.00.20:004][  0]LogSlate: Took 0.036257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.09-21.00.20:742][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.09-21.00.21:956][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.09-21.00.21:957][  0]LogLoad: (Engine Initialization) Total time: 119.66 seconds
+[2019.11.09-21.00.21:957][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.09-21.00.23:009][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.09-21.00.23:421][  0]LogSlate: Took 0.036787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.09-21.00.23:796][  1]LogFileCache: Retrieving MD5 hashes for directory 'R:/Unreal/gitProjects/ZombieCreed/ZombieCreed/Content/' took 1.34s
+[2019.11.09-21.00.24:397][  2]LogAssetRegistry: Asset discovery search completed in 83.7398 seconds
+[2019.11.09-21.00.24:469][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.11.09-21.00.24:469][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008769 seconds (updated 0 objects)
+[2019.11.09-21.04.17:644][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.05.02:075][788]LogGeometryMode: Warning: Unable to find sidewalk7 Brush(s) in new BSP
+[2019.11.09-21.05.02:075][788]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.05.18:423][651]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-21.05.18:423][651]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.05.38:950][945]LogGeometryMode: Warning: Unable to find Roads Brush(s) in new BSP
+[2019.11.09-21.05.38:950][945]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.05.49:493][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.05.49:563][ 85]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.06.01:571][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.06.30:464][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.06.30:524][471]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.06.35:582][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.07.01:436][757]LogGeometryMode: Warning: Unable to find sidewalk6 Brush(s) in new BSP
+[2019.11.09-21.07.01:436][757]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.07.26:265][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.07.26:332][361]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.07.37:139][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.07.56:626][464]LogGeometryMode: Warning: Unable to find Roads Brush(s) in new BSP
+[2019.11.09-21.07.56:626][464]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.08.10:906][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.08.12:366][138]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.08.14:846][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.08.24:886][483]LogGeometryMode: Warning: Unable to find sidewalk6 Brush(s) in new BSP
+[2019.11.09-21.08.24:886][483]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.08.28:567][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.08.31:008][186]LogEditorViewport: Clicking on Actor (context menu): Brush (sidewalk6)
+[2019.11.09-21.08.31:350][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-21.08.32:514][318]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.08.38:704][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.08.57:330][151]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-21.08.57:330][151]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.09.11:648][766]LogGeometryMode: Warning: Unable to find Roads Brush(s) in new BSP
+[2019.11.09-21.09.11:649][766]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.09.17:125][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.09.17:182][370]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.09.19:420][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.09.29:894][721]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-21.09.29:894][721]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.09.42:006][ 85]Cmd: TRANSACTION UNDO
+[2019.11.09-21.09.42:006][ 85]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.09.42:248][ 85]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.09.42:248][ 85]LogGeometryMode: Warning: Unable to resolve BoxBrush12 Brush in new BSP, see above
+[2019.11.09-21.09.42:248][ 85]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.09.42:407][ 85]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.09-21.09.45:127][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.09.46:131][493]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.09.49:572][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.09.53:402][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.09.53:477][284]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.09.58:252][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.10.47:813][262]LogGeometryMode: Warning: Unable to find Roads Brush(s) in new BSP
+[2019.11.09-21.10.47:813][262]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.10.51:683][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.10.51:733][662]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.10.54:120][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.11.29:495][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.11.29:569][623]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.11.35:471][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.12.07:080][632]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.07:080][632]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.07:741][665]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.07:741][665]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.07:848][665]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.12.07:848][665]LogGeometryMode: Warning: Unable to resolve Roads Brush in new BSP, see above
+[2019.11.09-21.12.07:848][665]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.12.08:282][705]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.08:282][705]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.08:418][705]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.12.08:418][705]LogGeometryMode: Warning: Unable to resolve Roads Brush in new BSP, see above
+[2019.11.09-21.12.08:418][705]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.12.08:801][734]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.08:801][734]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.08:904][734]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.12.08:904][734]LogGeometryMode: Warning: Unable to resolve Roads Brush in new BSP, see above
+[2019.11.09-21.12.08:904][734]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.12.09:277][748]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.09:277][748]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.09:462][748]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.12.09:462][748]LogGeometryMode: Warning: Unable to resolve Roads Brush in new BSP, see above
+[2019.11.09-21.12.09:462][748]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.12.09:821][766]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.09:821][766]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.09:983][766]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.12.09:983][766]LogGeometryMode: Warning: Unable to resolve Roads Brush in new BSP, see above
+[2019.11.09-21.12.09:983][766]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.12.10:355][792]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.10:355][792]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.10:472][792]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.12.10:472][792]LogGeometryMode: Warning: Unable to resolve Roads Brush in new BSP, see above
+[2019.11.09-21.12.10:472][792]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.12.45:419][688]Cmd: TRANSACTION UNDO
+[2019.11.09-21.12.45:419][688]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.12.45:526][688]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.12.45:526][688]LogGeometryMode: Warning: Unable to resolve Roads Brush in new BSP, see above
+[2019.11.09-21.12.45:526][688]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.12.46:991][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.12.47:054][834]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.12.51:234][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.13.03:634][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.13.49:960][590]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-21.13.49:961][590]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.14.20:518][101]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2019.11.09-21.14.20:871][101]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2019.11.09-21.15.02:132][771]LogGeometryMode: Warning: Unable to find sidewalk7 Brush(s) in new BSP
+[2019.11.09-21.15.02:132][771]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.15.12:505][837]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-21.15.12:505][837]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.15.12:537][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-21.15.58:884][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.15.58:967][166]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.16.11:839][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.16.36:572][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.16.36:639][194]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.16.45:167][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.16.58:332][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.16.58:407][577]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.17.11:634][ 45]Cmd: TRANSACTION UNDO
+[2019.11.09-21.17.11:634][ 45]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.17.11:793][ 45]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.17.11:793][ 45]LogGeometryMode: Warning: Unable to resolve sidewalk7 Brush in new BSP, see above
+[2019.11.09-21.17.11:793][ 45]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.17.13:025][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.17.47:720][  0]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-21.17.47:720][  0]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.18.59:444][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.09-21.18.59:561][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-21.19.01:953][528]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto1247AA5B54DE6193BF717B59D25DDA189.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto1.umap'
+[2019.11.09-21.19.02:022][528]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 2.680
+[2019.11.09-21.19.02:022][528]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.680
+[2019.11.09-21.19.54:043][759]LogGeometryMode: Warning: Unable to find Roads Brush(s) in new BSP
+[2019.11.09-21.19.54:043][759]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.20.05:313][980]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.09-21.20.06:468][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.09-21.20.19:127][429]Cmd: SELECT NONE
+[2019.11.09-21.20.24:091][  5]LogEditorViewport: Clicking on Actor (context menu): Brush (Roads)
+[2019.11.09-21.20.24:141][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-21.21.23:268][399]LogGeometryMode: Warning: Unable to find sidewalk7 Brush(s) in new BSP
+[2019.11.09-21.21.23:269][399]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.22.46:319][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.22.46:369][175]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.22.54:900][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.23.22:166][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.23.25:927][649]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.09-21.23.30:455][157]Cmd: TRANSACTION UNDO
+[2019.11.09-21.23.30:455][157]LogEditorTransaction: Undo Brush Add
+[2019.11.09-21.23.31:658][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.23.34:166][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.23.35:796][679]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.11.09-21.24.16:483][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.24.18:098][177]Cmd: TRANSACTION UNDO
+[2019.11.09-21.24.18:098][177]LogEditorTransaction: Undo Edit Z
+[2019.11.09-21.24.20:500][397]Cmd: TRANSACTION UNDO
+[2019.11.09-21.24.20:500][397]LogEditorTransaction: Undo Edit Y
+[2019.11.09-21.24.57:066][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.25.05:717][426]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.11.09-21.25.05:717][426]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.25.19:732][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.25.19:799][998]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.25.35:248][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.25.38:171][ 26]Cmd: TRANSACTION UNDO
+[2019.11.09-21.25.38:171][ 26]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.25.38:319][ 26]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.25.38:319][ 26]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.11.09-21.25.38:319][ 26]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.25.43:541][576]Cmd: TRANSACTION UNDO
+[2019.11.09-21.25.43:541][576]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.25.43:687][576]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.25.43:687][576]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.11.09-21.25.43:687][576]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.25.46:558][865]Cmd: EDCALLBACK SURFPROPS
+[2019.11.09-21.26.35:735][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.27.07:120][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.28.52:160][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.28.59:851][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.32.55:419][120]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.11.09-21.32.55:419][120]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.32.57:836][383]Cmd: DUPLICATE
+[2019.11.09-21.32.57:836][383]Cmd: ACTOR DUPLICATE
+[2019.11.09-21.33.07:287][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.33.26:430][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.33.57:724][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.34.00:583][508]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.09-21.34.03:108][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.34.40:861][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.35.00:112][841]Cmd: TRANSACTION UNDO
+[2019.11.09-21.35.00:112][841]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.35.00:250][841]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.35.00:250][841]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2019.11.09-21.35.00:250][841]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.35.32:199][521]Cmd: EDCALLBACK SURFPROPS
+[2019.11.09-21.35.55:951][ 53]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2019.11.09-21.35.55:951][ 53]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.36.06:187][115]Cmd: DUPLICATE
+[2019.11.09-21.36.06:187][115]Cmd: ACTOR DUPLICATE
+[2019.11.09-21.36.29:897][745]Cmd: TRANSACTION UNDO
+[2019.11.09-21.36.29:897][745]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.36.30:091][745]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.11.09-21.36.30:091][745]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2019.11.09-21.36.30:091][745]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.36.33:594][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.36.40:353][870]Cmd: DELETE
+[2019.11.09-21.36.40:353][870]Cmd: ACTOR DELETE
+[2019.11.09-21.36.40:543][870]LogEditorActor: Deleted Actor: Brush
+[2019.11.09-21.36.40:646][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.11.09-21.36.40:760][870]LogEditorActor: Deleted 1 Actors (0.396 secs)
+[2019.11.09-21.36.42:290][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.09-21.36.48:429][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.37.26:154][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.09-21.37.26:173][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-21.37.27:117][114]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto2E3497F6B4C315BE068AAE0A4D3FAE747.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto2.umap'
+[2019.11.09-21.37.27:121][114]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 0.999
+[2019.11.09-21.37.27:121][114]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.999
+[2019.11.09-21.38.17:993][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.38.54:838][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.38.54:887][372]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.39.00:806][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.39.28:479][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.39.28:562][161]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.40.15:547][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.44.37:392][924]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.11.09-21.44.37:392][924]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.44.51:513][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.47.27:580][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.11.09-21.47.27:629][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-21.47.28:606][506]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto3D4DCAC6744441F01FDCDBB9FEAD38DF8.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto3.umap'
+[2019.11.09-21.47.28:609][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 1.072
+[2019.11.09-21.47.28:609][506]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.072
+[2019.11.09-21.48.41:301][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.53.30:715][379]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2019.11.09-21.53.30:715][379]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-21.55.17:698][745]Cmd: DUPLICATE
+[2019.11.09-21.55.17:698][745]Cmd: ACTOR DUPLICATE
+[2019.11.09-21.55.23:004][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.57.16:727][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.58.45:945][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.58.46:020][301]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-21.58.55:542][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-21.59.17:738][835]Cmd: TRANSACTION UNDO
+[2019.11.09-21.59.17:738][835]LogEditorTransaction: Undo Move Actors
+[2019.11.09-21.59.17:892][835]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-21.59.17:892][835]LogGeometryMode: Warning: Unable to resolve sidewalk7 Brush in new BSP, see above
+[2019.11.09-21.59.17:892][835]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-22.00.21:527][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.09-22.00.21:554][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-22.00.22:579][284]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto45E0517664E8FD57DF605F3B971917F72.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto4.umap'
+[2019.11.09-22.00.22:581][284]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 1.130
+[2019.11.09-22.00.22:582][284]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.130
+[2019.11.09-22.07.52:535][394]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-22.07.52:535][394]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-22.10.34:846][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.09-22.10.34:866][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-22.10.35:756][340]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto52E0D4ACA48420D6477E6A78EAFD311C4.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto5.umap'
+[2019.11.09-22.10.35:758][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 0.939
+[2019.11.09-22.10.35:758][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.939
+[2019.11.09-22.17.45:682][624]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-22.17.45:682][624]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-22.29.01:734][119]LogGeometryMode: Warning: Unable to find sidewalk5 Brush(s) in new BSP
+[2019.11.09-22.29.01:735][119]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-22.29.21:202][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.29.21:821][271]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.29.31:745][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.29.59:224][ 67]LogGeometryMode: Warning: Unable to find BoxBrush16 Brush(s) in new BSP
+[2019.11.09-22.29.59:224][ 67]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-22.30.13:792][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.30.13:857][544]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.30.23:407][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.30.38:127][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.30.38:202][108]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.30.51:104][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.31.34:090][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-22.31.34:167][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.09-22.31.34:171][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-22.31.35:069][125]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto67B417632484DAB217AECDBA8F7ED82F2.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto6.umap'
+[2019.11.09-22.31.35:075][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 0.958
+[2019.11.09-22.31.35:075][125]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.958
+[2019.11.09-22.32.31:914][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.32.37:398][472]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.09-22.32.42:510][ 36]Cmd: DELETE
+[2019.11.09-22.32.42:510][ 36]Cmd: ACTOR DELETE
+[2019.11.09-22.32.42:534][ 36]LogEditorActor: Deleted Actor: Brush
+[2019.11.09-22.32.42:558][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.11.09-22.32.42:677][ 36]LogEditorActor: Deleted 1 Actors (0.167 secs)
+[2019.11.09-22.32.43:949][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.32.46:625][466]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.11.09-22.32.50:089][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.41.35:321][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.11.09-22.41.35:364][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-22.41.36:426][851]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto7483C30434C360390BD7308893BFF105D.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto7.umap'
+[2019.11.09-22.41.36:428][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 1.140
+[2019.11.09-22.41.36:428][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.140
+[2019.11.09-22.50.38:490][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-22.50.41:320][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-22.50.43:460][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-22.50.55:264][ 47]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2019.11.09-22.50.55:652][ 90]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2019.11.09-22.50.57:029][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.51.10:883][807]Cmd: TRANSACTION UNDO
+[2019.11.09-22.51.10:883][807]LogEditorTransaction: Undo Move Actors
+[2019.11.09-22.51.11:126][807]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-22.51.11:126][807]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-22.51.11:126][807]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-22.51.16:034][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.51.16:108][330]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.51.41:837][440]Cmd: TRANSACTION UNDO
+[2019.11.09-22.51.41:837][440]LogEditorTransaction: Undo Move Actors
+[2019.11.09-22.51.42:016][440]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-22.51.42:017][440]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-22.51.42:017][440]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-22.51.43:882][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.52.00:559][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.52.10:945][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.52.16:716][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.52.16:774][226]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.52.47:506][712]Cmd: TRANSACTION UNDO
+[2019.11.09-22.52.47:506][712]LogEditorTransaction: Undo Move Actors
+[2019.11.09-22.52.47:656][712]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-22.52.47:656][712]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-22.52.47:656][712]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-22.52.48:616][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.53.52:832][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-22.53.52:898][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.09-22.53.53:070][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-22.53.53:931][851]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto84DCDC4D5428CD6634D7B0798DEBF4B92.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto8.umap'
+[2019.11.09-22.53.53:933][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 1.076
+[2019.11.09-22.53.53:933][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.076
+[2019.11.09-22.54.03:426][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.54.03:487][907]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.54.08:976][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.54.58:105][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.54.59:001][948]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.55.03:991][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.56.29:956][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.56.30:006][965]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.56.33:039][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.56.48:795][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.56.48:853][926]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.56.51:165][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.57.00:476][146]Cmd: TRANSACTION UNDO
+[2019.11.09-22.57.00:476][146]LogEditorTransaction: Undo Move Actors
+[2019.11.09-22.58.46:606][125]Cmd: TRANSACTION UNDO
+[2019.11.09-22.58.46:606][125]LogEditorTransaction: Undo Move Actors
+[2019.11.09-22.58.46:765][125]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-22.58.46:765][125]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-22.58.46:765][125]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-22.58.48:186][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.58.48:245][267]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.58.56:888][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.59.13:363][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-22.59.13:430][ 42]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-22.59.20:512][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.00.42:619][870]Cmd: POLY SELECT MEMORY UNION
+[2019.11.09-23.00.55:608][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.01.00:193][806]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.09-23.01.12:206][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.01.24:124][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.02.39:760][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.02.42:367][279]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2019.11.09-23.02.45:924][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.02.50:264][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.03.52:794][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.05.00:739][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.11.09-23.05.00:745][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-23.05.01:781][292]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto9F35DB2E046C9EE803A069BAF5DCE7A29.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto9.umap'
+[2019.11.09-23.05.01:787][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 1.133
+[2019.11.09-23.05.01:787][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.133
+[2019.11.09-23.05.18:090][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.05.19:322][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.05.36:319][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.05.39:750][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.05.39:843][823]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-23.06.04:774][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.06.42:822][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.07.55:422][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.08.09:065][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.08.21:453][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.08.36:784][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.08.36:859][932]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-23.11.45:852][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.11.55:479][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.11.55:554][226]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-23.12.43:372][434]LogGeometryMode: Warning: Unable to find BoxBrush2_9 Brush(s) in new BSP
+[2019.11.09-23.12.43:372][434]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.12.58:041][100]Cmd: DELETE
+[2019.11.09-23.12.58:041][100]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.11.09-23.12.58:041][100]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-23.12.58:041][100]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.13.05:097][872]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.05:097][872]LogEditorTransaction: Undo Modifier [Delete]
+[2019.11.09-23.13.32:890][603]Cmd: DELETE
+[2019.11.09-23.13.32:892][603]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.11.09-23.13.32:892][603]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-23.13.32:892][603]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.13.54:173][717]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.54:173][717]LogEditorTransaction: Undo Modifier [Delete]
+[2019.11.09-23.13.54:820][739]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.54:820][739]LogEditorTransaction: Undo Move Actors
+[2019.11.09-23.13.55:404][772]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.55:404][772]LogEditorTransaction: Undo Move Actors
+[2019.11.09-23.13.56:020][805]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.56:020][805]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.09-23.13.56:429][851]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.56:429][851]LogEditorTransaction: Undo Move Actors
+[2019.11.09-23.13.56:561][851]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.11.09-23.13.56:561][851]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-23.13.56:561][851]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.13.56:874][873]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.56:874][873]LogEditorTransaction: Undo Move Actors
+[2019.11.09-23.13.57:603][916]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.57:603][916]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.09-23.13.58:102][973]Cmd: TRANSACTION UNDO
+[2019.11.09-23.13.58:102][973]LogEditorTransaction: Undo Move Actors
+[2019.11.09-23.13.58:244][973]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.11.09-23.13.58:244][973]LogGeometryMode: Warning: Unable to resolve BoxBrush2_9 Brush in new BSP, see above
+[2019.11.09-23.13.58:244][973]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.14.19:937][146]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-23.14.19:937][146]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.14.46:631][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.14.46:689][995]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2019.11.09-23.14.46:690][995]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.14.56:389][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2019.11.09-23.15.10:926][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.15.10:985][ 59]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.09-23.15.24:977][542]Cmd: TRANSACTION UNDO
+[2019.11.09-23.15.24:977][542]LogEditorTransaction: Undo Move Actors
+[2019.11.09-23.15.25:159][542]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.09-23.15.25:160][542]LogGeometryMode: Warning: Unable to resolve BoxBrush6 Brush in new BSP, see above
+[2019.11.09-23.15.25:160][542]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.15.26:130][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.15.55:982][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.16.16:485][998]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2019.11.09-23.16.16:485][998]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.16.36:240][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.16.40:882][760]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.09-23.16.49:885][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.17.37:583][257]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2019.11.09-23.17.37:583][257]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.18.06:128][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.18.06:219][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.09-23.18.06:264][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-23.18.07:083][500]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto01881006D41D13784244E38892E1BBF87.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto0.umap'
+[2019.11.09-23.18.07:085][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 0.932
+[2019.11.09-23.18.07:085][500]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.932
+[2019.11.09-23.18.32:901][507]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2019.11.09-23.18.32:901][507]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.19.23:803][443]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2019.11.09-23.19.23:803][443]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.19.45:753][789]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.09-23.19.49:631][212]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush7)
+[2019.11.09-23.19.49:681][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.20.32:474][986]LogGeometryMode: Warning: Unable to find Roads Brush(s) in new BSP
+[2019.11.09-23.20.32:474][986]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.21.51:807][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.22.07:022][586]LogGeometryMode: Warning: Unable to find BoxBrush2_9 Brush(s) in new BSP
+[2019.11.09-23.22.07:022][586]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.09-23.22.19:157][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.23.09:676][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.23.33:843][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.24.02:520][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.24.42:354][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.25.14:333][412]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.09-23.25.25:173][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-23.25.55:063][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.28.07:463][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.11.09-23.28.07:467][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.09-23.28.08:690][863]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City1_Auto18D22063E45D38BA305ABE28C422F9EC0.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto1.umap'
+[2019.11.09-23.28.08:697][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 1.285
+[2019.11.09-23.28.08:697][863]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.285
+[2019.11.10-05.55.04:810][120]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.10-05.55.04:810][120]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.10-05.55.08:123][457]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.11.10-05.55.10:693][457]LogSlate: Window 'Save Content' being destroyed
+[2019.11.10-05.55.10:750][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/City1" FILE="../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.10-05.55.10:776][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.11.10-05.55.11:450][457]LogSavePackage: Moving '../../../../gitProjects/ZombieCreed/ZombieCreed/Saved/City12437A8534C84C86C7A14F4A04C1B6BD2.tmp' to '../../../../gitProjects/ZombieCreed/ZombieCreed/Content/Maps/City1.umap'
+[2019.11.10-05.55.11:719][457]LogFileHelpers: Saving map 'City1' took 0.971
+[2019.11.10-05.55.11:869][457]LogSlate: Window 'ZombieCreed - Unreal Editor' being destroyed
+[2019.11.10-05.55.11:870][457]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.10-05.55.12:339][458]Cmd: QUIT_EDITOR
+[2019.11.10-05.55.12:738][458]LogExit: Preparing to exit.
+[2019.11.10-05.55.14:155][458]LogExit: Editor shut down
+[2019.11.10-05.55.14:156][458]LogExit: Transaction tracking system shut down
+[2019.11.10-05.55.16:610][458]LogExit: Object subsystem successfully closed.
+[2019.11.10-05.55.18:618][458]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.10-05.55.18:716][458]LogD3D11RHI: Shutdown
+[2019.11.10-05.55.18:716][458]LogD3D11RHI: CleanupD3DDevice
+[2019.11.10-05.55.18:725][458]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.10-05.55.18:725][458]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.10-05.55.18:731][458]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.10-05.55.18:731][458]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.10-05.55.18:731][458]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.10-05.55.18:731][458]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.10-05.55.19:109][458]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.10-05.55.20:506][458]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.11.10-05.55.20:506][458]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.11.10-05.55.20:506][458]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.11.10-05.55.20:530][458]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.11.10-05.55.20:530][458]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.11.10-05.55.20:530][458]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.11.10-05.55.20:543][458]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.11.10-05.55.20:557][458]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.11.10-05.55.20:574][458]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.11.10-05.55.20:609][458]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.11.10-05.55.20:609][458]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.11.10-05.55.20:609][458]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.11.10-05.55.20:609][458]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.11.10-05.55.20:609][458]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.11.10-05.55.20:609][458]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.11.10-05.55.20:609][458]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.11.10-05.55.20:692][458]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.11.10-05.55.20:705][458]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.11.10-05.55.20:717][458]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.11.10-05.55.20:717][458]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.11.10-05.55.20:728][458]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.11.10-05.55.20:736][458]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.11.10-05.55.20:782][458]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.11.10-05.55.20:783][458]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.11.10-05.55.20:811][458]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.11.10-05.55.20:825][458]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.11.10-05.55.20:825][458]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.11.10-05.55.20:825][458]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.11.10-05.55.20:825][458]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.11.10-05.55.20:825][458]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.11.10-05.55.20:835][458]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.11.10-05.55.20:862][458]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.11.10-05.55.20:886][458]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.11.10-05.55.20:947][458]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.11.10-05.55.20:997][458]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.11.10-05.55.21:017][458]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.11.10-05.55.21:073][458]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.11.10-05.55.21:127][458]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.11.10-05.55.21:127][458]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.11.10-05.55.21:127][458]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.11.10-05.55.21:127][458]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.11.10-05.55.21:143][458]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.11.10-05.55.22:545][458]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.11.10-05.55.22:545][458]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.11.10-05.55.22:545][458]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.11.10-05.55.22:545][458]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.11.10-05.55.22:545][458]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.11.10-05.55.22:545][458]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.11.10-05.55.22:572][458]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.11.10-05.55.22:601][458]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.11.10-05.55.22:644][458]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.11.10-05.55.22:665][458]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.11.10-05.55.22:665][458]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.11.10-05.55.22:675][458]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.11.10-05.55.22:686][458]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.11.10-05.55.22:699][458]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.11.10-05.55.22:699][458]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.11.10-05.55.22:700][458]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.11.10-05.55.22:700][458]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.11.10-05.55.22:700][458]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.11.10-05.55.22:736][458]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.11.10-05.55.22:816][458]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.11.10-05.55.22:824][458]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.11.10-05.55.22:837][458]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.11.10-05.55.22:880][458]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.11.10-05.55.22:947][458]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.11.10-05.55.23:077][458]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.11.10-05.55.23:102][458]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.11.10-05.55.23:173][458]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.11.10-05.55.23:173][458]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.11.10-05.55.23:189][458]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.11.10-05.55.23:190][458]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.11.10-05.55.23:226][458]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.11.10-05.55.23:256][458]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.11.10-05.55.23:256][458]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.11.10-05.55.23:256][458]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.11.10-05.55.23:280][458]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.11.10-05.55.23:456][458]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.11.10-05.55.23:457][458]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.11.10-05.55.23:457][458]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.10-05.55.23:472][458]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.10-05.55.23:490][458]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.10-05.55.23:490][458]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.10-05.55.23:502][458]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.10-05.55.23:502][458]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.10-05.55.23:524][458]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.10-05.55.23:524][458]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.10-05.55.23:524][458]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.10-05.55.23:532][458]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.10-05.55.23:545][458]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.10-05.55.23:545][458]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.10-05.55.23:545][458]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.10-05.55.23:545][458]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.10-05.55.23:545][458]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.10-05.55.23:545][458]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.10-05.55.23:577][458]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.10-05.55.23:582][458]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.10-05.55.23:594][458]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.10-05.55.23:594][458]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.11.10-05.55.23:594][458]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.11.10-05.55.23:604][458]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.11.10-05.55.23:803][458]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.11.10-05.55.23:834][458]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.11.10-05.55.23:834][458]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.11.10-05.55.23:841][458]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.11.10-05.55.23:851][458]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.11.10-05.55.23:861][458]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.11.10-05.55.23:861][458]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.11.10-05.55.23:861][458]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.11.10-05.55.23:876][458]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.11.10-05.55.23:876][458]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.11.10-05.55.23:887][458]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.11.10-05.55.23:887][458]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.11.10-05.55.23:887][458]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.11.10-05.55.23:887][458]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.11.10-05.55.23:895][458]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.11.10-05.55.23:912][458]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.11.10-05.55.23:912][458]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.11.10-05.55.23:912][458]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.11.10-05.55.23:912][458]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.11.10-05.55.23:912][458]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.11.10-05.55.23:923][458]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.11.10-05.55.23:928][458]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.10-05.55.23:928][458]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.10-05.55.23:928][458]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.10-05.55.23:928][458]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.10-05.55.23:936][458]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.11.10-05.55.23:937][458]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.11.10-05.55.23:945][458]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.11.10-05.55.23:945][458]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.11.10-05.55.23:963][458]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.11.10-05.55.24:042][458]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.11.10-05.55.24:056][458]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.10-05.55.24:056][458]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.10-05.55.24:056][458]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.10-05.55.24:071][458]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.10-05.55.24:071][458]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.10-05.55.24:071][458]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.10-05.55.24:099][458]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.10-05.55.24:118][458]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.10-05.55.24:135][458]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.10-05.55.24:144][458]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.10-05.55.24:144][458]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.11.10-05.55.24:144][458]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.11.10-05.55.24:144][458]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.11.10-05.55.24:144][458]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.11.10-05.55.24:144][458]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.11.10-05.55.24:145][458]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.11.10-05.55.24:145][458]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.11.10-05.55.24:182][458]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.10-05.55.24:182][458]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.10-05.55.24:182][458]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.10-05.55.24:182][458]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.10-05.55.24:182][458]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.10-05.55.24:182][458]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.10-05.55.24:182][458]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.10-05.55.24:283][458]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.10-05.55.24:427][458]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.10-05.55.24:427][458]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.10-05.55.24:427][458]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.10-05.55.24:442][458]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.10-05.55.24:442][458]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.10-05.55.24:467][458]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.10-05.55.24:468][458]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.10-05.55.24:468][458]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.10-05.55.24:468][458]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.10-05.55.24:493][458]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.10-05.55.24:493][458]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.10-05.55.24:493][458]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.10-05.55.24:493][458]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.10-05.55.24:509][458]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.10-05.55.24:591][458]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.10-05.55.24:606][458]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.10-05.55.24:606][458]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.10-05.55.24:606][458]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.10-05.55.24:619][458]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.10-05.55.24:621][458]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.10-05.55.24:635][458]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.10-05.55.24:635][458]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.10-05.55.24:635][458]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.10-05.55.24:635][458]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.10-05.55.24:647][458]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.10-05.55.24:664][458]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.10-05.55.24:674][458]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.10-05.55.24:674][458]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.10-05.55.24:674][458]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.10-05.55.24:697][458]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.10-05.55.24:697][458]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.10-05.55.24:697][458]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.10-05.55.24:697][458]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.10-05.55.24:718][458]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.10-05.55.24:733][458]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.10-05.55.24:733][458]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.10-05.55.24:768][458]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.10-05.55.24:781][458]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.10-05.55.24:864][458]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.10-05.55.24:874][458]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.10-05.55.24:885][458]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.10-05.55.24:911][458]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.10-05.55.24:974][458]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.10-05.55.24:974][458]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.10-05.55.25:018][458]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.10-05.55.25:018][458]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.10-05.55.25:023][458]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.10-05.55.25:048][458]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.10-05.55.25:084][458]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.10-05.55.25:084][458]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.10-05.55.25:174][458]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.10-05.55.25:236][458]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.10-05.55.25:250][458]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.10-05.55.25:263][458]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.10-05.55.25:359][458]LogDerivedDataCache: Shutdown
+[2019.11.10-05.55.25:359][458]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.10-05.55.25:359][458]LogXGEController: Cleaning working directory: C:/Users/Adril/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.10-05.55.25:373][458]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.10-05.55.25:388][458]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.10-05.55.25:402][458]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.10-05.55.25:412][458]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.10-05.55.25:466][458]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.10-05.55.25:496][458]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.10-05.55.25:508][458]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.10-05.55.25:508][458]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.10-05.55.25:508][458]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.10-05.55.25:517][458]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.10-05.55.25:526][458]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.10-05.55.25:526][458]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.10-05.55.25:526][458]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.10-05.55.25:526][458]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.10-05.55.25:535][458]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.10-05.55.25:535][458]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.10-05.55.25:543][458]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.10-05.55.25:573][458]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.10-05.55.25:573][458]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.10-05.55.25:575][458]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.10-05.55.25:576][458]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.10-05.55.25:585][458]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.10-05.55.25:592][458]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.10-05.55.25:592][458]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.10-05.55.25:597][458]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.10-05.55.25:597][458]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.10-05.55.25:644][458]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.10-05.55.25:644][458]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.10-05.55.25:644][458]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.10-05.55.25:644][458]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.10-05.55.25:644][458]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.10-05.55.25:644][458]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.10-05.55.25:645][458]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.10-05.55.25:645][458]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.10-05.55.25:645][458]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.10-05.55.25:645][458]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.10-05.55.25:645][458]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.10-05.55.25:645][458]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.10-05.55.25:728][458]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.10-05.55.25:728][458]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.10-05.55.25:740][458]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.10-05.55.25:740][458]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.10-05.55.25:751][458]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.10-05.55.25:751][458]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.10-05.55.25:751][458]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.10-05.55.25:751][458]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.10-05.55.25:800][458]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.10-05.55.25:823][458]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.10-05.55.25:885][458]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.10-05.55.25:885][458]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.10-05.55.25:885][458]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBFB2F6D7-48EC-6257-632A-3E9DE354A9B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2157a10b476953f1106295aff31ccca9%7C3660e519d424403abda47429a5beba77%7C0b4bcf56-7c82-4af4-9548-e68af1fb614c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.10-05.55.25:901][458]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.10-05.55.25:905][458]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.10-05.55.25:919][458]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.10-05.55.25:925][458]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.10-05.55.25:945][458]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.10-05.55.25:945][458]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.10-05.55.25:984][458]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.10-05.55.26:016][458]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.10-05.55.26:056][458]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.10-05.55.26:067][458]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.10-05.55.26:067][458]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.10-05.55.26:067][458]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.10-05.55.26:090][458]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.10-05.55.26:116][458]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.10-05.55.26:116][458]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.10-05.55.26:121][458]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.10-05.55.26:121][458]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.10-05.55.26:121][458]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.10-05.55.26:121][458]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.10-05.55.26:136][458]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.10-05.55.26:136][458]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.10-05.55.26:149][458]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.10-05.55.26:149][458]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.10-05.55.26:154][458]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.10-05.55.26:165][458]LogExit: Exiting.
+[2019.11.10-05.55.26:178][458]Log file closed, 11/10/19 00:55:26
+>>>>>>> master
