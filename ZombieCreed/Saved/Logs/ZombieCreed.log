@@ -2264,3 +2264,39 @@ Script Stack (0 frames):
 [2019.11.14-02.56.40:801][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
 [2019.11.14-02.56.40:841][402]LogPlayLevel: Display: Destroying online subsystem :Context_65
 [2019.11.14-02.56.42:384][487]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP88B7E5B74ADCF1B0DA4FF5A95E97CE2B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-02.57.25:299][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-02.58.19:317][308]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP9F057D1F40231BC84D9248876C04B4DA.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-02.58.19:831][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-02.58.19:896][345]BlueprintLog: New page: Compile Player_BP
+[2019.11.14-02.58.20:223][345]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.11.14-02.58.20:849][370]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.14-02.58.20:876][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-02.58.20:877][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-02.58.20:877][370]PIE: New page: PIE session: City1 (Nov 13, 2019, 4:58:20 PM)
+[2019.11.14-02.58.20:877][370]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_City1
+[2019.11.14-02.58.20:939][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062563s)
+[2019.11.14-02.58.20:940][370]LogAIModule: Creating AISystem for world City1
+[2019.11.14-02.58.20:940][370]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2019.11.14-02.58.20:940][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/City1.City1 to /Game/Maps/UEDPIE_0_City1.City1 (0.063242s)
+[2019.11.14-02.58.20:983][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.11.14-02.58.20:993][370]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-02.58.21:000][370]LogInit: FAudioDevice initialized.
+[2019.11.14-02.58.21:006][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-02.58.21:036][370]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.14-02.58.21:045][370]LogWorld: Bringing World /Game/Maps/UEDPIE_0_City1.City1 up for play (max tick rate 0) at 2019.11.13-21.58.21
+[2019.11.14-02.58.21:045][370]LogWorld: Bringing up level for play took: 0.008583
+[2019.11.14-02.58.21:070][370]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_City1 0.974
+[2019.11.14-02.58.21:071][370]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-02.58.40:898][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-02.58.40:898][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-02.58.40:916][629]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-02.58.40:957][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-02.58.40:958][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-02.58.41:010][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.11.14-02.58.41:048][630]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.11.14-02.59.49:948][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.14-02.59.50:533][116]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/City1_Auto38501625C4BFA103D2F89E69159FE8706.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Autosaves/Game/Maps/City1_Auto3.umap'
+[2019.11.14-02.59.50:538][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 0.630
+[2019.11.14-02.59.50:538][116]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.630
+[2019.11.14-02.59.51:126][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-02.59.55:165][429]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPF55B18DA4488D43ACAB88183F3B12FB7.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
