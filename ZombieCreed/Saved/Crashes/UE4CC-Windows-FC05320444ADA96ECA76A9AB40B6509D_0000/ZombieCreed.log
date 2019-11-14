@@ -1,0 +1,867 @@
+﻿Log file open, 11/13/19 20:36:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ZombieCreed
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.387129
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Satucree -epicuserid=3495916a293f4f9b9e0823dd2d0f4bb3 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.14-01.36.41:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.14-01.36.41:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.14-01.36.41:863][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.14-01.36.41:872][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-01.36.41:872][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-01.36.41:873][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-01.36.41:873][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-01.36.41:873][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.14-01.36.41:887][  0]LogHAL: Display: Platform has ~ 32 GB [34296897536 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.14-01.36.41:887][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.14-01.36.41:887][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-01.36.41:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.14-01.36.41:888][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Config/Windows/Engine.ini]
+[2019.11.14-01.36.41:888][  0]LogInit: Computer: DESKTOP-IFTV2G3
+[2019.11.14-01.36.41:888][  0]LogInit: User: SamuelPaquette2
+[2019.11.14-01.36.41:888][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.14-01.36.41:888][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.14-01.36.41:889][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.14-01.36.41:889][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.14-01.36.41:889][  0]LogMemory: Process Physical Memory: 98.89 MB used, 98.90 MB peak
+[2019.11.14-01.36.41:889][  0]LogMemory: Process Virtual Memory: 102.44 MB used, 102.44 MB peak
+[2019.11.14-01.36.41:889][  0]LogMemory: Physical Memory: 13128.10 MB used,  19579.97 MB free, 32708.07 MB total
+[2019.11.14-01.36.41:889][  0]LogMemory: Virtual Memory: 4687.29 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.11.14-01.36.41:906][  0]LogInit: Using OS detected language (en-US).
+[2019.11.14-01.36.41:906][  0]LogInit: Using OS detected locale (en-CA).
+[2019.11.14-01.36.41:906][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.14-01.36.42:048][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.14-01.36.42:085][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.14-01.36.42:085][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.14-01.36.42:243][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-01.36.42:243][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.14-01.36.42:314][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.11.14-01.36.42:314][  0]LogD3D11RHI:       4053/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.11.14-01.36.42:315][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.14-01.36.42:315][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.14-01.36.42:315][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.14-01.36.42:321][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.14-01.36.42:321][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.14-01.36.42:321][  0]LogWindows: EnumDisplayDevices:
+[2019.11.14-01.36.42:321][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.11.14-01.36.42:321][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.11.14-01.36.42:321][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.11.14-01.36.42:322][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.11.14-01.36.42:322][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.14-01.36.42:322][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.11.14-01.36.42:322][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.11.14-01.36.42:322][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.11.14-01.36.42:322][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.11.14-01.36.42:352][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.14-01.36.42:354][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-01.36.42:355][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-01.36.42:355][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-01.36.42:368][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.14-01.36.42:600][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.14-01.36.42:612][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.14-01.36.42:625][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.14-01.36.42:639][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.14-01.36.42:652][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.14-01.36.42:666][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.14-01.36.42:683][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.14-01.36.42:699][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.14-01.36.42:706][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.14-01.36.42:780][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.14-01.36.42:780][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.14-01.36.42:780][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.14-01.36.42:780][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.14-01.36.42:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.14-01.36.42:782][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.14-01.36.42:834][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.14-01.36.42:834][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.14-01.36.42:858][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.14-01.36.42:858][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.14-01.36.42:871][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.14-01.36.42:884][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.14-01.36.42:896][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.14-01.36.42:907][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.14-01.36.42:947][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.14-01.36.42:947][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.14-01.36.42:947][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.14-01.36.42:955][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.14-01.36.42:992][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Intermediate/Shaders/WorkingDirectory/14440/).
+[2019.11.14-01.36.42:993][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel Paquette/AppData/Local/Temp/UnrealShaderWorkingDir/4331842349A0EDB52AC58282CBF61DF6/'.
+[2019.11.14-01.36.42:994][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.14-01.36.42:994][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.14-01.36.42:994][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.14-01.36.43:478][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.14-01.36.43:519][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Samuel Paquette/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-01.36.43:519][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel Paquette/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.14-01.36.43:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.14-01.36.43:519][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.14-01.36.43:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-01.36.43:519][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.14-01.36.43:529][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.14-01.36.43:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-01.36.43:529][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.14-01.36.43:541][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel Paquette/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.14-01.36.43:541][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.14-01.36.43:541][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.14-01.36.43:558][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.14-01.36.43:559][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.14-01.36.43:559][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.14-01.36.43:633][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2019.11.14-01.36.43:913][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-01.36.44:029][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.14-01.36.44:029][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.14-01.36.44:029][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.14-01.36.44:029][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.14-01.36.44:029][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.14-01.36.44:037][  0]LogNetVersion: ZombieCreed 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2797403465)
+[2019.11.14-01.36.44:373][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044596 seconds
+[2019.11.14-01.36.44:379][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.14-01.36.44:379][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.14-01.36.44:379][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.14-01.36.45:054][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.14-01.36.45:066][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.14-01.36.45:164][  0]SourceControl: Source control is disabled
+[2019.11.14-01.36.45:164][  0]SourceControl: Source control is disabled
+[2019.11.14-01.36.45:165][  0]SourceControl: Source control is disabled
+[2019.11.14-01.36.45:166][  0]SourceControl: Source control is disabled
+[2019.11.14-01.36.45:223][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.14-01.36.45:275][  0]LogOcInput: OculusInput pre-init called
+[2019.11.14-01.36.45:839][  0]LogEngine: Initializing Engine...
+[2019.11.14-01.36.45:840][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-01.36.45:840][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.14-01.36.46:015][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.14-01.36.46:025][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-01.36.46:039][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-01.36.46:052][  0]LogInit: FAudioDevice initialized.
+[2019.11.14-01.36.46:052][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.14-01.36.46:137][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Samuel Paquette/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-01.36.46:147][  0]LogInit: Texture streaming: Enabled
+[2019.11.14-01.36.46:162][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.14-01.36.46:178][  0]LogInit: Transaction tracking system initialized
+[2019.11.14-01.36.46:200][  0]BlueprintLog: New page: Editor Load
+[2019.11.14-01.36.46:264][  0]LocalizationService: Localization service is disabled
+[2019.11.14-01.36.46:478][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ as it will conflict with another watching ../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/.
+[2019.11.14-01.36.46:498][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/' took 0.02s
+[2019.11.14-01.36.46:498][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.14-01.36.46:498][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.14-01.36.46:635][  0]SourceControl: Source control is disabled
+[2019.11.14-01.36.46:635][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Maps/City1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-01.36.46:635][  0]LightingResults: New page: Lighting Build
+[2019.11.14-01.36.46:637][  0]MapCheck: New page: Map Check
+[2019.11.14-01.36.46:637][  0]LightingResults: New page: Lighting Build
+[2019.11.14-01.36.46:663][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.14-01.36.47:640][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'ClimbingExit' for  InputAction ClimbingExit
+[2019.11.14-01.36.47:640][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'ClimbingTurnForward' for  InputAction ClimbingTurnForward
+[2019.11.14-01.36.47:640][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'ClimbingExit' for  InputAction ClimbingExit
+[2019.11.14-01.36.47:640][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'ClimbingTurnRight' for  InputAction ClimbingTurnRight
+[2019.11.14-01.36.47:640][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'ClimbingTurnLeft' for  InputAction ClimbingTurnLeft
+[2019.11.14-01.36.47:653][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'RunToStop' for  InputAction RunToStop
+[2019.11.14-01.36.47:653][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'Walk' for  InputAction Walk
+[2019.11.14-01.36.47:653][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] InputAction Event references unknown Action 'Run' for  InputAction Run
+[2019.11.14-01.36.47:704][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "MakingParkourAnimation" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set MakingParkourAnimation
+[2019.11.14-01.36.47:704][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "MakingParkourAnimation" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set MakingParkourAnimation
+[2019.11.14-01.36.47:704][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "NormalVaultReference" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Get NormalVaultReference
+[2019.11.14-01.36.47:704][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "NormalVaultReference" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Get NormalVaultReference
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "NormalVaultReference" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Get NormalVaultReference
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "NormalVaultReference" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Get NormalVaultReference
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "NormalVaultReference" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Get NormalVaultReference
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "NormalVault_InstantaneouslyParkour" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set NormalVault_InstantaneouslyParkour
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:705][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:706][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Set ParkourMovement
+[2019.11.14-01.36.47:707][  0]LogBlueprint: Warning: [Compiler Player_BP] Could not find a variable named "ParkourMovement" in 'Player_BP_C'.
+Make sure 'Player_BP_C' has been compiled for  Get ParkourMovement
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:822][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Parkour Movement  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Normal Vault Instantaneously Parkour  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Normal Vault Reference  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Normal Vault Reference  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Normal Vault Reference  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Normal Vault Reference  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:823][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Normal Vault Reference  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:824][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Making Parkour Animation  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.47:824][  0]LogBlueprint: Error: [Compiler Player_BP] The property associated with  Making Parkour Animation  could not be found in '/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP_C'
+[2019.11.14-01.36.48:010][  0]LogBlueprint: Warning: [Compiler Parkour_Charactere_BP] [0007.85] Compile of Parkour_Charactere_BP successful, but with 8 Warning(s) [in 684 ms] (/Game/Parkour/Character/Charactere_Blueprint/Parkour_Charactere_BP.Parkour_Charactere_BP)
+[2019.11.14-01.36.48:010][  0]LogBlueprint: Warning: [Compiler Player_BP] [0007.85] Compile of Player_BP failed. 28 Fatal Issue(s) 28 Warning(s) [in 684 ms] (/Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP)
+[2019.11.14-01.36.48:458][  0]LogAIModule: Creating AISystem for world City1
+[2019.11.14-01.36.48:489][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-01.36.48:529][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.14-01.36.48:529][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-01.36.48:530][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2019.11.14-01.36.48:530][  0]LogFileHelpers: Loading map 'City1' took 1.894
+[2019.11.14-01.36.48:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-01.36.48:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-01.36.48:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-01.36.48:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-01.36.48:649][  0]LogCollectionManager: Loaded 0 collections in 0.001555 seconds
+[2019.11.14-01.36.48:664][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Collections/' took 0.01s
+[2019.11.14-01.36.48:664][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Developers/SamuelPaquette2/Collections/' took 0.00s
+[2019.11.14-01.36.48:664][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/Collections/' took 0.00s
+[2019.11.14-01.36.48:664][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.14-01.36.48:671][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2732 classes and 659 folders.
+[2019.11.14-01.36.48:678][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-01.36.48:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-01.36.48:707][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-01.36.48:712][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.14-01.36.48:774][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.14-01.36.48:775][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.14-01.36.48:779][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.14-01.36.48:829][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.14-01.36.48:955][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-01.36.48:955][  0]LogLoad: (Engine Initialization) Total time: 8.79 seconds
+[2019.11.14-01.36.48:955][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.14-01.36.49:009][  0]LogAssetRegistry: Asset discovery search completed in 5.3988 seconds
+[2019.11.14-01.36.49:011][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.14-01.36.49:011][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2019.11.14-01.36.49:012][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.14-01.36.49:060][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-01.36.49:304][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/' took 0.32s
+[2019.11.14-01.36.56:192][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-01.36.56:327][713]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-01.36.56:335][713]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Parkour/Parkour_Obstacles_Blueprints/NormalVault_BP.NormalVault_BP
+[2019.11.14-01.36.56:535][713]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.14-01.36.57:318][713]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.14-01.37.09:575][923]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieCreed_Game/Characters/Player_Character/Player_BP.Player_BP
+[2019.11.14-01.37.10:286][924]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.14-01.37.53:371][561]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Parkour/Character/Charactere_Blueprint/Parkour_Charactere_BP.Parkour_Charactere_BP
+[2019.11.14-01.38.16:040][643]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.14-01.38.23:359][110]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.11.14-01.38.26:303][238]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.11.14-01.38.26:308][238]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.11.14-01.38.27:166][274]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP5230967941863CAE06436C8D5D7AD237.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.38.35:881][925]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP4D1AA67C46910C77CAD593A23DAC2287.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.38.51:968][143]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP35DBA5104F3FA03D8DF92AA51FA0F7C3.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.38.53:905][274]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP742CBE2F45509B84ED23DA897619E253.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.38.56:146][417]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP2BF44B1146BD131F6C1A99BD9B52866C.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.39.08:230][358]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP5382EE98410E43D95C2A5B8A3E739B00.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.39.15:065][838]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPB5297F5440269FC797C43C859A467085.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.39.35:947][483]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP0F01C9FF4B6A8A5E286A2BB120B1D839.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.39.40:857][814]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP39DD954C447D371E9D99D2A8F637871B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.39.50:153][583]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPEE926A674FFF3089039839A37889C555.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.39.57:918][172]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP2020DF324E57EED09112A99A16797ECC.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.39.59:701][292]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP83E9D65040A8EB716019CA96573C787A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.40.03:709][596]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP4B6E7A5944F4543CBA19BEA0CC5194F1.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.40.05:345][697]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP24F81658426126AE584CE28F7F659958.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.04:193][ 31]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP31EB0BBD418401284E320687C8EE094B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.06:070][145]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPD763B122401464853D0CA4B78D07A586.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.10:453][440]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP84B85C9241C48C56FDD7CAAEF422856B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.13:547][648]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPA038CB464A393A0015A3888A7E8855A3.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.15:201][747]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP98344F19406E191B409B14A09A979C52.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.17:573][898]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP3DC93C964645825D512556BFDAFD1DF9.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.21:673][183]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPC2734A484036222E67F6D3AB34D4E0EE.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.24:486][369]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPEBCE0B5D4148C7A45D3253A7DE66324D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.28:506][629]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP93BCBF1048D58A7D483401AFD0E1C24E.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.48:989][157]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP0B22CD30435DEF5D1BF3328D9381FD25.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.54:049][493]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP75E06E6E42B2EE71E43C818C3527D243.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.57:308][701]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP33DFBB77438A4F9DE7BC2790BB7ED59A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.41.58:915][784]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPAEE63D80412FF10F68167DBFB216D1DE.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.42.23:951][802]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP457B2A94443F15802111FD915D150E92.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.42.33:779][497]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPB71256254079F7D1B86B7084823B4E6F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.42.35:344][593]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPE26E0540426AB4E6203AAE8A416E3E6F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.42.38:114][780]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP9405175242963D54966CBE84EEFD20B6.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.42.44:643][267]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP8B95364844DA2F095785AC97DE54CFE5.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.43.04:642][772]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP4A33230E4363C6535F6574946060832A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.43.41:793][346]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPF20D0B034C704A7F43B77D9876BDB4E1.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.43.49:143][771]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPC7A2638F45728FB25BEFA2B88ED307DB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.43.52:201][950]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP3BB7799E4A57F7B2328225AE8CEA1311.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.43.53:583][ 15]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP0732D1D343F2F1B41EF066811ECD201D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.44.27:477][679]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6C3D109F4CA215B5F1BB6A847AA6F06F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.44.36:224][374]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP2034F527433F019877668A9131015F1A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.44.43:048][940]LogEditorTransaction: Undo Delete current selection
+[2019.11.14-01.44.51:417][566]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPE06416BA474ADE7FEE57D4821EB07FEC.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.44.59:467][144]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPAD18563A46511EF9792FFE851D44FED3.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.02:647][347]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP195A473D4D5EF5516DFCC4932F309310.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.05:767][541]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPCE2DDEEA48A6CFE5452C92A973E724C8.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.22:780][801]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP089363774F17D7910E4EE0A253F642DB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.28:954][240]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP4BBE6B6B4D087D204F237083BACE6B70.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.32:331][492]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPCB63576E4922585FE5D4D3BF12C9A275.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.44:954][443]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP994C1E764CAC3ED2B2F262A1B905B347.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.46:309][517]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP00A582774E72B104EF4CDCA7FF0C54E2.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.45.49:222][712]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPBDD008B44B107A93603DBEBA76775537.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.46.05:882][984]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPC830D509401D4043FD2642A4346F3066.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.46.08:299][141]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPB986D3FC453F7F7AE2C96CA0ACDD911B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.46.24:404][425]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP284F48C14278D88144B4988E9EAB8D28.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.46.26:335][537]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP9331DFE74DD08E4AB2A6D5A27941ED52.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.46.35:940][316]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6494C4324BC524F8CF760FAD42C3B786.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.46.57:405][872]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPA4F0A7CE4C1975B004C0E5B714FA3786.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.47.00:744][108]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP91B0B18944A7E3EACEE3029AD348B53E.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.47.08:620][651]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP2827A9A542731629DB1534804376600C.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.47.48:398][294]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP28B01EB94FF7478E26B3E487A7E33051.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.47.52:771][572]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP157B76AE423526D65BE168BAEE9BE463.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.47.55:277][738]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP647C69664B1E8C048EF1E1B224306534.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.47.58:303][934]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPC3AD0F4749E6027857D56C8E148D683A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.48.00:018][ 36]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPA3557FB6495D3F3C185509A58FD28CFB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.48.06:900][486]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6A8E0B774FAF7550C22212A03235B622.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.48.08:788][600]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPD1FECF8F459935AD4A750B9CAE1E9E0D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.48.11:971][792]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP87EBB23B47804F04C0F21992F4947DE4.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.48.25:153][711]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP7BA9918043BC00C63608E6A735DD2444.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.48.42:219][937]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP691290294B0A8202172EA6AA4F95A3DC.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.48.59:574][960]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP775858424071A764A50A658C0E7F3CC5.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.03:029][180]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP75F4C30449942479B8B3388CE0767F5E.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.08:451][524]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP5D82481F47FFD2331579F8A51E2E5A79.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.09:947][607]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6A40C43F4917ECC7CC0FF3848D70ADCF.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.15:599][939]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6FFD6EBE46B56D5FF7D20CB72E03E48B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.20:397][281]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6FD854934E27955834D6898229A385A7.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.30:804][ 19]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP5B0F8D71441723E22A3A739A0EBACD13.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.38:970][505]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP8293164049A521125F9D6A9C6E173592.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.46:145][966]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP319BBAFC4CF68AECFDB03AA508860F18.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.50:026][238]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6B27F1D1487B4DEA9F61F1B3960A346B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.49.56:971][738]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPB40FBF09461ABB1D6926C38486F54604.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.50.43:854][873]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP6EBE3DB942FE11195D141D9E27B6F0D9.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.50.54:769][708]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPB759CF604DDB586989ECB5A75176C35F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.51.07:056][560]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPCA626A20468E9EC1969448BA8ABB76C5.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.51.44:476][ 88]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.11.14-01.51.46:663][208]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.11.14-01.51.46:668][208]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.11.14-01.51.49:278][337]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP8344382E4BADE1E9F03E41AED9112B5C.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.52.19:971][693]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/ParkourAnimations/NormalVault/Fold_Flip_NormalVault_Montage.Fold_Flip_NormalVault_Montage
+[2019.11.14-01.52.19:976][693]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.11.14-01.52.19:982][693]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.11.14-01.52.19:982][693]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.14-01.52.20:142][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-01.52.20:149][693]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.11.14-01.52.20:149][693]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.11.14-01.52.20:183][693]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-01.52.20:845][693]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-01.52.46:721][ 80]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP203F3A9944F6D8C2D7B590A4CDD4DF89.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.52.54:321][550]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPC76B8F5F49FF86E9D713C5AE66B1BCAB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.53.17:873][146]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPCB55005C48A464BF9B00C69B6B815E93.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.53.19:291][229]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPA42E9E0E4940B4B7EF0014B3E386F9FF.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.53.32:504][124]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP04B14AC949E1C469160CA29FA4DCD782.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.53.45:268][ 48]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP34E2E8334651D0250C3515A6D7D8F365.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.53.47:632][201]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP1683209545F14BFBD50F9D9DCE75605F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.53.58:469][989]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPAC4B5E27444973E8E61543AD1BBF51CF.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.54.05:663][489]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP7BC2EF814DC69F4D7A6576B80F319373.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.54.12:041][909]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP625515854D1FFAB66DA06188D34AD217.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.54.15:198][ 79]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP54E8CAF8407BECBD4C2A8B9EEEE07F7D.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.54.22:713][650]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP79EF45DD409EEB3A6F8EC889ED67E640.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.54.30:248][178]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPA1FA537D4D1BF03ADC3BB49FE7F3A5AF.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.55.07:820][292]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2019.11.14-01.55.07:820][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/City1' took 0.085
+[2019.11.14-01.55.07:823][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Parkour/Character/Charactere_Blueprint/Parkour_Charactere_BP] ([1] browsable assets)...
+[2019.11.14-01.55.07:845][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Parkour/Character/Charactere_Blueprint/Parkour_Charactere_BP.Parkour_Charactere_BP]
+[2019.11.14-01.55.07:845][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Parkour/Character/Charactere_Blueprint/Parkour_Charactere_BP]
+[2019.11.14-01.55.08:661][292]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Parkour_Charactere_BP_Auto1C3A909224402034E016D589362C4D304.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Autosaves/Game/Parkour/Character/Charactere_Blueprint/Parkour_Charactere_BP_Auto1.uasset'
+[2019.11.14-01.55.08:666][292]LogFileHelpers: Auto-saving content packages took 0.845
+[2019.11.14-01.55.42:466][440]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP13DACAC94E7A44DDE77CE2B6627951C7.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.57.21:761][ 31]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPE9EF7BA2440B1392EB91EFBC6B2FAD2A.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.57.35:005][995]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPC3FFE9244EBFCB3B90F3A68CDEBF875F.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.57.40:757][388]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP1F7ECDCE4F1A41DDEE8A768172F95061.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.57.45:284][689]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP3226B54F4E66CD0BA3D620AB76E7B918.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.57.47:507][839]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP034C35964C97E31FEADA36AE5046BEEB.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.57.51:093][ 94]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPD44C83204C058A24CB6FF7B7AC4BA40B.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.57.54:531][353]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BPCE493E3A4B4DAB9B3DD2A08C22618916.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.58.01:721][800]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP0F24990C4A135738C76910ABDE1F8340.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.58.11:066][325]LogSavePackage: Moving '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Saved/Player_BP824F072F414CC17A56EAE7B42D4C0371.tmp' to '../../../../../../Users/Samuel Paquette/Desktop/Projet zombie unreal/ZombieCreed/Content/ZombieCreed_Game/Characters/Player_Character/Player_BP.uasset'
+[2019.11.14-01.58.11:448][348]BlueprintLog: New page: Compile Player_BP
+[2019.11.14-01.58.11:760][348]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.11.14-01.58.12:915][407]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.14-01.58.12:948][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-01.58.12:948][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-01.58.12:948][407]PIE: New page: PIE session: City1 (Nov 13, 2019, 3:58:12 PM)
+[2019.11.14-01.58.12:960][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_City1
+[2019.11.14-01.58.13:040][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078864s)
+[2019.11.14-01.58.13:040][407]LogAIModule: Creating AISystem for world City1
+[2019.11.14-01.58.13:040][407]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.11.14-01.58.13:040][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/City1.City1 to /Game/Maps/UEDPIE_0_City1.City1 (0.079960s)
+[2019.11.14-01.58.13:086][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.11.14-01.58.13:093][407]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-01.58.13:102][407]LogInit: FAudioDevice initialized.
+[2019.11.14-01.58.13:107][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-01.58.13:183][407]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.14-01.58.13:189][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_City1.City1 up for play (max tick rate 0) at 2019.11.13-20.58.13
+[2019.11.14-01.58.13:190][407]LogWorld: Bringing up level for play took: 0.006422
+[2019.11.14-01.58.13:205][407]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.14-01.58.13:209][407]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.14-01.58.13:209][407]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.14-01.58.13:224][407]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_City1 1.128
+[2019.11.14-01.58.13:225][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-01.58.13:259][408]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.11.14-01.58.28:339][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-01.58.28:339][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-01.58.28:358][283]LogSlate: Window 'ZombieCreed Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-01.58.28:395][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-01.58.28:396][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/City1.City1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/City1.City1:PersistentLevel.City1' with GeneratedClass '/Game/Maps/City1.City1_C' with ClassGeneratedBy '/Game/Maps/City1.City1:PersistentLevel.City1'
+[2019.11.14-01.58.28:497][283]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2019.11.14-01.58.28:536][284]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.11.14-01.58.55:790][629]LogUObjectArray: Warning: Other object in slot
+[2019.11.14-01.58.55:791][629]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.14-01.58.56:138][629]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.347 s
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: 
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: Stack: 
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca97dc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca9056fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca9064e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca6b437f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca4f85cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca4f41e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca9f85984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffcaa1715e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca9fcd70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca9faaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffca9fa0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffce78db726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffce78cef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffce78dd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffce78cc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffcfc58c906 USER32.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffcfc58c422 USER32.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffce78de946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ff69bb75d3e UE4Editor.exe!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ff69bb8554c UE4Editor.exe!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ff69bb855ca UE4Editor.exe!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ff69bb9316c UE4Editor.exe!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ff69bb95b8e UE4Editor.exe!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffcff037974 KERNEL32.DLL!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: [Callstack] 0x00007ffcff17a271 ntdll.dll!UnknownFunction []
+[2019.11.14-01.58.56:138][629]LogOutputDevice: Error: 
+[2019.11.14-01.58.56:146][629]LogStats:                SubmitErrorReport -  0.000 s
